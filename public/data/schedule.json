@@ -56,27 +56,18 @@
 				},
 				{
 					"id": "5",
-					"title": "Xerrada 1",
-					"startHour": "20:00",
-					"endHour": "21:00",
+					"title": "Xerrada repte planificació tasques",
+					"startHour": "21:00",
+					"endHour": "21:30",
 					"lleida": "Aula 0.02",
 					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
 					"id": "6",
-					"title": "Xerrada 2",
-					"startHour": "21:00",
+					"title": "Xerrada repte proteïnes",
+					"startHour": "21:30",
 					"endHour": "22:00",
-					"lleida": "Aula 0.02",
-					"bcn": "Aula A6001",
-					"online": "Twitch: canals LleidaHack o HackersUPC"
-				},
-				{
-					"id": "7",
-					"title": "Xerrada 3",
-					"startHour": "22:00",
-					"endHour": "23:00",
 					"lleida": "Aula 0.02",
 					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
