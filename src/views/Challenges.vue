@@ -68,6 +68,7 @@
           <div class="margin-bottom text-centered">
             <a>
               <img style="width: 30%;" loading="lazy" alt="meetup" src="assets/img/challenges/logo-meetup.png">
+              <img style="width: 30%;" loading="lazy" alt="meetup" src="assets/img/challenges/logo-associacio-asperger-catalunya.png">
             </a>
           </div>
         </div>
@@ -113,7 +114,8 @@
         <div class="expl-container">
           <div class="margin-bottom text-centered">
             <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" rel="sponsored">
-              <img style="width: 50%;" loading="lazy" alt="bits" src="assets/img/challenges/logo-bitsxlamarato.png">
+              <img style="width: 30%;" loading="lazy" alt="bits" src="assets/img/challenges/logo-bitsxlamarato.png">
+              <img style="width: 30%;" loading="lazy" alt="bits" src="assets/img/challenges/logo-inclusioupc.png">
             </a>
           </div>
         </div>
