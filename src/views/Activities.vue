@@ -9,7 +9,7 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: A500X & Google Meet</span>
+            <span>Barcelona: A6001 & Google Meet</span>
           </div>
           <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! </p>
           <p class="margin-bottom"> Vine a l'aula si estàs a Barcelona o connecta't per Google Meet si estàs en línia o a Lleida, trobarem un equip per tu o completarem el teu! </p>
@@ -31,23 +31,23 @@
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Activitat empatia</h1>
+        <h1 style="text-transform: uppercase;">Escoltar i escoltar-nos, per poder acompanyar</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: Aula AXXX</span>
+            <span>Barcelona: Aula A6001</span>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. Mauris at neque eu nisi scelerisque ornare. Morbi sollicitudin, ipsum vestibulum aliquam efficitur, augue leo consequat dolor, eget sagittis nisl mi ut erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed quis nibh est. Proin ut interdum nisi. Fusce condimentum tristique commodo.</p>
+          <p>Es farà sessions de l’activitat de 30’-40’ cadascuna, durant les dues hores. L’objectiu de l’activitat és exactament el que diu el títol. La primera part de cada sessió serà un exercici de meditació d'atendre al cos i descubrir que si l'escoltem i acceptem el que ens passa, podem entendre i reparar dolors físics i emocionals. Després, a la segona part de la sessió, es farà un treball pràctic en petit grups per saber com s’ha de ajudar i acompanyar a aquestes persones afectades per un transtorn mental o emocional.</p>
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Construïm Lego!</h1>
+        <h1 style="text-transform: uppercase;">Karaoke!</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: Aula AXXX</span>
+            <span>Barcelona: Aula A6001</span>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. Mauris at neque eu nisi scelerisque ornare. Morbi sollicitudin, ipsum vestibulum aliquam efficitur, augue leo consequat dolor, eget sagittis nisl mi ut erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed quis nibh est. Proin ut interdum nisi. Fusce condimentum tristique commodo.</p>
+          <p>Necessites un descans? Estàs a Barcelona? Vine a cantar amb nosaltres!!! Demana la cançó que més t'agradi (nadales, cançons de la Marató) i canta!</p>
         </div>
       </div>
       <div class="panel">
@@ -57,59 +57,33 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>Lleida: Aula AXXX</span>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. Mauris at neque eu nisi scelerisque ornare. Morbi sollicitudin, ipsum vestibulum aliquam efficitur, augue leo consequat dolor, eget sagittis nisl mi ut erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed quis nibh est. Proin ut interdum nisi. Fusce condimentum tristique commodo.</p>
+          <p>Necessites un descans? Estàs a Lleida? Vine a ballar amb nosaltres!!! Crema les energies dels canalons aixecar-te una estona de la cadira!</p>
         </div>
       </div>
       <div class="panel large">
         <h1 class="activity-title">Xerrades</h1>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Xerrada 1</h1>
+        <h1 style="text-transform: uppercase;">Xerrada repte planificació</h1>
         <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A500X & Lleida: 0.02</span>
+          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A6001 & Lleida: 0.02</span>
         </div>
         <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. </p>
+          <p color="#DDDDDD">Vídeo no disponible encara</p>
           <!--<div class="embed-container">
             <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>-->
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Xerrada 2</h1>
+        <h1 style="text-transform: uppercase;">Xerrada repte proteïnes</h1>
         <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A500X & Lleida: 0.02</span>
+          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A6001 & Lleida: 0.02</span>
         </div>
         <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. </p>
-          <!--<div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>-->
-        </div>
-      </div>
-      <div class="panel">
-        <h1 style="text-transform: uppercase;">Xerrada 3</h1>
-        <div class="margin-bottom text-centered">
-          <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A500X & Lleida: 0.02</span>
-        </div>
-        <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. </p>
-          <!--<div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>-->
-        </div>
-      </div>
-      <div class="panel">
-        <h1 style="text-transform: uppercase;">Xerrada 4</h1>
-        <div class="margin-bottom text-centered">
-          <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A500X & Lleida: 0.02</span>
-        </div>
-        <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. </p>
+          <p color="#DDDDDD">Vídeo no disponible encara</p>
           <!--<div class="embed-container">
             <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>-->

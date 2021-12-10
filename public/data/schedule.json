@@ -25,7 +25,7 @@
 					"startHour": "18:00",
 					"endHour": "19:00",
 					"lleida": "Aula 2.03 (Sala de graus)",
-					"bcn": "Aula A600X",
+					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -42,7 +42,7 @@
 					"startHour": "19:30",
 					"endHour": "20:00",
 					"lleida": "-",
-					"bcn": "Aula A600X",
+					"bcn": "Aula A6001",
 					"online": "Enviarem un enllaç de Google Meet per Slack"
 				},
 				{
@@ -60,7 +60,7 @@
 					"startHour": "20:00",
 					"endHour": "21:00",
 					"lleida": "Aula 0.02",
-					"bcn": "Aula A600X",
+					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -69,7 +69,7 @@
 					"startHour": "21:00",
 					"endHour": "22:00",
 					"lleida": "Aula 0.02",
-					"bcn": "Aula A600X",
+					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -78,7 +78,7 @@
 					"startHour": "22:00",
 					"endHour": "23:00",
 					"lleida": "Aula 0.02",
-					"bcn": "Aula A600X",
+					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -122,7 +122,7 @@
 					"startHour": "10:00",
 					"endHour": "13:00",
 					"lleida": "No aplica",
-					"bcn": "Aula A6XXX",
+					"bcn": "Aula A6001",
 					"online": "No aplica"
 				},
 				{
@@ -136,11 +136,11 @@
 				},
 				{
 					"id": "14",
-					"title": "Construïm Lego!",
+					"title": "Karaoke!!",
 					"startHour": "17:00",
 					"endHour": "18:00",
 					"lleida": "No aplica",
-					"bcn": "Aula A6XXX",
+					"bcn": "Aula A6001",
 					"online": "No aplica"
 				},
 				{
@@ -197,8 +197,8 @@
 					"title": "Presentacions dels projectes",
 					"startHour": "12:30",
 					"endHour": "14:00",
-					"lleida": "Aula XXX",
-					"bcn": "Aula A6XXX",
+					"lleida": "Més info al slack",
+					"bcn": "Més info al slack",
 					"online": "Enviarem un enllaç de Google Meet per Slack"
 				},
 				{
@@ -216,7 +216,7 @@
 					"startHour": "15:00",
 					"endHour": "16:00",
 					"lleida": "Aula 2.03 (Sala de graus)",
-					"bcn": "Aula A600X",
+					"bcn": "Aula A6001",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
