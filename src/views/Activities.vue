@@ -35,7 +35,7 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: Aula A6001</span>
+            <span>Barcelona: Aula A6104</span>
           </div>
           <p>Es farà sessions de l’activitat de 30’-40’ cadascuna, durant les dues hores. L’objectiu de l’activitat és exactament el que diu el títol. La primera part de cada sessió serà un exercici de meditació d'atendre al cos i descubrir que si l'escoltem i acceptem el que ens passa, podem entendre i reparar dolors físics i emocionals. Després, a la segona part de la sessió, es farà un treball pràctic en petit grups per saber com s’ha de ajudar i acompanyar a aquestes persones afectades per un transtorn mental o emocional.</p>
         </div>

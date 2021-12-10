@@ -8,7 +8,7 @@
         <h1>Accés a Marenostrum 4</h1>
         <p>
           <!-- <b><a href="https://www.fib.upc.edu/sites/fib/files/bitsxlamarato-user-reponsabilities-bsc-2020.pdf" target="_blank" class="external-link">Basic information</a></b> <br/> -->
-          Pots demanar tenir accés a Marenostrum4 durant aquest cap de setmana, si el necessites contacta a qualsevol organizer al canal de <span>#ajuda</span> de l'slack i t'ajudaran a aconseguir accés.<br><br>
+          Si estàs participant al repte de les proteïnes tenir accés a Marenostrum4 durant aquest cap de setmana, si el necessites contacta a qualsevol organizer al canal de <span>#ajuda</span> de l'slack i t'ajudaran a aconseguir accés.<br><br>
           Això ha estat possible gràcies al Barcelona Supercomputing Center (BSC)!
         </p>
         <div>
