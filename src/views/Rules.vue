@@ -2,32 +2,31 @@
   <div id="rules" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
-        <h1 class="activity-title">Rules</h1>
+        <h1 class="activity-title">Regles</h1>
       </div>
       <div class="panel large">
         <div style="text-align: justify;">
           <!-- <p>Here you can find the rules of the #bitsxLaMarató hackathon. They are a customised and simplified version of the standard rules used by the HackUPC hackathon (organised by HackersUPC). If you have any suggestions or questions about it, please send them here.</p> -->
           <div class="margin-bottom text-centered">
-            <h2>BitsxlaMarató Spirit</h2>
+            <h2>L'esperit de bitsxlaMarato</h2>
           </div>
-          <p class="margin-bottom"> Whatever the reason that leads you to participate in this hackathon, make sure you maintain the spirit of non-competitive collaboration that this event wants to establish. Although there will be awards, the most important thing is to get good projects that help research for the COVID-19.</p>
+          <p class="margin-bottom"> Sigui quin sigui el motiu que t'ha portat a participar en aquesta hackató, assegura't de mantenir l'esperit de no competitivitat i col·laboració que aquest esdeveniment vol establir. Encara que hi ha premis pels equips guanyadors, el més important és tenir bons projectes per ajudar a les malalties de salut mental.</p>
         </div>
       </div>
       <div class="panel large">
         <div style="text-align: justify;">
           <div class="margin-bottom text-centered">
-            <h2>BitsxlaMarató Rules</h2>
+            <h2>Regles de bitsxlaMarató</h2>
           </div>
           <p class="margin-bottom">
             <ol>
-              <li>There is no minimum number of members per team, although it is recommended to be 4. If there were more than 4, then the maximum number would be 5 people.</li><br/>
-              <li>Needleless to say, teams can get advice and support from organisers, volunteers, sponsors and others.</li><br/>
-              <li>All work on a project can starts off before the hackathon</li><br/>
-              <li>Teams can use an idea they came up with before the event, as long as it follows the theme of the hackathon.</li><br/>
-              <li>Teams can work on ideas that they have already worked on before or that they have already carried out.</li><br/>
-              <li>Teams can use libraries, frameworks, or open-source code in their projects.</li><br/>
-              <li>Projects that break the Code of Conduct are not allowed.</li><br/>
-              <li>Data protection and intellectual property rights shall be complied.</li>
+              <li>No hi ha nombre mínim de participants per equip. Encara que nosaltres recomanem ser 4, si sou més el màxim és 5</li><br/>
+              <li>No cal dir que els equips poden demanar en tot moment ajuda als organitzadors, voluntaris, patrocinadors, mentors i fins i tot altres equips.</li><br/>
+              <li>El desenvolupament del projecte pot començar abans de la hackató.</li><br/>
+              <li>Els equips poden utilitzar una idea d'abans de l'esdeveniment sempre que pugui ser part d'un dels reptes plantejats.</li><br/>
+              <li>Els equips poden utilitzar llibreries, frameworks o codi obert en el seu projecte.</li><br/>
+              <li>Els projectes que trenquin el Codi de Conducta no estan autoritzats.</li><br/>
+              <li>S'ha de complir la protecció de dades i propietat intel·lectual.</li>
             </ol>
           </p>
         </div>
@@ -35,26 +34,62 @@
       <div class="panel large">
         <div style="text-align: justify;">
           <div class="margin-bottom text-centered">
-            <h2>BitsxlaMarató Demos</h2>
+            <h2>Presentació projectes bitsxlaMarató</h2>
           </div>
           <p class="margin-bottom">
-            Once the hacking is over, the teams will show their projects to each other in a Demo Fair format.<br/><br/>
-            We prompt you to present a demonstration of what you have created and to share the knowledge gained.<br/><br/>
-            We also encourage you to submit what you have carried out, even if the hack does not work or you have not been able to finish it. It is okay if you didn’t get what you expected, it happens very often. The demo is an opportunity to share with others what you have learned and what you have tried to create, and this is the magic of hacking and hackathons. If there is nothing you can show, you could give a presentation about what you have tried and what you have learned. Listening to what other people have learned is always interesting and inspiring to other attendees.<br/><br/>
-            You will only be eligible for the awards if you give a presentation. The prizes will be evaluated according to the judging criteria.
+            Quan el temps de programació s'ha acabat, els equips han de presentar el seu projecte al lloc assignat.<br/><br/>
+            Us demanem que presenteu en forma de Demo del que heu creat i que compartiu els coneixements adquirits, no està permès presentar un PowerPoint sense cap demo real.<br/><br/>
+            T'animem a penjar a Devpost el projecte que has fet encara que no hagis pogut acabar. Està bé si no has aconseguit el que volies, és comú a una hackató. La demo és una oportunitat d'ensenyar el que has après i el que has intentat crear, això és la màgia de les hackatons. Si no hi ha res que ens puguis ensenyar, també pots fer una presentació del que has intentat i que has après. També escolta el que els altres han après sempre és interessant i motivacional.<br/><br/>
+            Només seràs apte a premi si presentes el projecte. Els premis s'avaluaran seguint el criteri de judging (el pots veure al final d'aquesta pàgina).
           </p>
         </div>
       </div>
       <div class="panel large">
         <div style="text-align: justify;">
           <div class="margin-bottom text-centered">
-            <h2>Remember</h2>
+            <h2>Normes COVID</h2>
           </div>
           <p class="margin-bottom">
-            To make the most of the event, try out something new, teach other people and make new friends. <br /><br />
-
-            <i>Happy Hacking from the bitsxLaMarató team!</i>
+            A causa de la situació actual de pandèmia, es demanarà a tots els participants el certificat COVID a l'entrada de l'esdeveniment així com serà obligatori l'ús de mascareta.<br/><br/>
+            L'equip de bitsxlaMarató facilitarà mascaretes per tal de tenir un control de canvi de mascareta cada 4 hores. <br/><br/>
+            També és necessari tenir les finestres obertes, tot i el fred, durant 10 minuts cada hora. <br/><br/>
+            Per menjar és necessari sortir a l'exterior, no està permès menjar dins les aules no específiques per aquesta finalitat.
           </p>
+        </div>
+      </div>
+      <div class="panel large">
+        <div style="text-align: justify;">
+          <div class="margin-bottom text-centered">
+            <h2>Recorda!</h2>
+          </div>
+          <p class="margin-bottom">
+            Per fer aquest esdeveniment una experiència enriquidora, intenta coses diferents, ensenya a altres i fes amics.<br /><br />
+
+            <i>Happy Hacking del equip de bitsxLaMarató!</i>
+          </p>
+        </div>
+      </div>
+      <div class="panel large">
+        <h1 class="activity-title">JUDGING</h1>
+      </div>
+      <div class="panel large">
+        <div style="text-align: justify;">
+          <div class="margin-bottom text-centered">
+            <h2>Tecnologia</h2>
+          </div>
+          <p class="margin-bottom">Que tan impressionant tècnicament ha sigut la hack?</p><br/>
+          <p class="margin-bottom">Ha sigut difícil el problema tècnic que ha abordat l'equip?</p><br/>
+          <p class="margin-bottom">Han utilitzat alguna tècnica especialment intel·ligent o han utilitzat molts components diferents?</p><br/>
+          <p class="margin-bottom">La tecnologia utilitzada et fa tenir l'efecte "Wow"?</p>
+        </div>
+      </div>
+      <div class="panel large">
+        <div style="text-align: justify;">
+          <div class="margin-bottom text-centered">
+            <h2>Resolució del repte</h2>
+          </div>
+          <p class="margin-bottom">És la idea proposada una solució al repte?</p><br/>
+          <p class="margin-bottom">És possible utilitzar aquest projecte per ajudar al desenvolupament del repte proposat?</p>
         </div>
       </div>
     </div>

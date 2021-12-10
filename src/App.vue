@@ -20,34 +20,28 @@
       <nav>
         <ul>
           <li :class="$route.path === '/' ? 'selected' : ''">
-            <router-link to="/">Home</router-link>
+            <router-link to="/">Inici</router-link>
           </li>
           <li :class="isActive('/live')">
             <router-link to="/live">Live</router-link>
           </li>
           <li :class="isActive('/schedule')">
-            <router-link to="/schedule">Schedule</router-link>
+            <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donations</a>
-          </li>
-          <li :class="isActive('/discord')">
-            <router-link to="/discord">Discord</router-link>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
           </li>
           <li :class="isActive('/challenges')">
-            <router-link to="/challenges">Challenges</router-link>
+            <router-link to="/challenges">Reptes</router-link>
           </li>
           <li :class="isActive('/activities')">
-            <router-link to="/activities">Activities</router-link>
+            <router-link to="/activities">Activitats</router-link>
           </li>
           <li :class="isActive('/rules')">
-            <router-link to="/rules">Rules</router-link>
+            <router-link to="/rules">Regles</router-link>
           </li>
           <li :class="isActive('/faq')">
-            <router-link to="/faq">FAQ</router-link>
-          </li>
-          <li :class="isActive('/judging')">
-            <router-link to="/judging">Judging</router-link>
+            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
           </li>
         </ul>
       </nav>
@@ -57,37 +51,31 @@
       <nav>
         <ul>
           <li :class="$route.path === '/' ? 'selected' : ''">
-            <router-link to="/">Home</router-link>
+            <router-link to="/">Inici</router-link>
           </li>
           <li :class="isActive('/live')">
             <router-link to="/live">Live</router-link>
           </li>
           <li :class="isActive('/schedule')">
-            <router-link to="/schedule">Schedule</router-link>
+            <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donations</a>
-          </li>
-          <li :class="isActive('/discord')">
-            <router-link to="/discord">Discord</router-link>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
           </li>
           <li @click="toggleFullscreen" id="countdown-li">
             <Countdown/>
           </li>
           <li :class="isActive('/challenges')">
-            <router-link to="/challenges">Challenges</router-link>
+            <router-link to="/challenges">Reptes</router-link>
           </li>
           <li :class="isActive('/activities')">
-            <router-link to="/activities">Activities</router-link>
+            <router-link to="/activities">Activitats</router-link>
           </li>
           <li :class="isActive('/rules')">
-            <router-link to="/rules">Rules</router-link>
+            <router-link to="/rules">Regles</router-link>
           </li>
           <li :class="isActive('/faq')">
-            <router-link to="/faq">FAQ</router-link>
-          </li>
-          <li :class="isActive('/judging')">
-            <router-link to="/judging">Judging</router-link>
+            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
           </li>
         </ul>
       </nav>
