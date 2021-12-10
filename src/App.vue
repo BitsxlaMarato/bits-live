@@ -41,7 +41,7 @@
             <router-link to="/rules">Regles</router-link>
           </li>
           <li :class="isActive('/faq')">
-            <router-link to="/faq">FAQ</router-link>
+            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
           </li>
         </ul>
       </nav>
@@ -75,7 +75,7 @@
             <router-link to="/rules">Regles</router-link>
           </li>
           <li :class="isActive('/faq')">
-            <router-link to="/faq">FAQ</router-link>
+            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
           </li>
         </ul>
       </nav>

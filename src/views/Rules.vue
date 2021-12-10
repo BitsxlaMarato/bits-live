@@ -2,7 +2,7 @@
   <div id="rules" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
-        <h1 class="activity-title">Rules</h1>
+        <h1 class="activity-title">Regles</h1>
       </div>
       <div class="panel large">
         <div style="text-align: justify;">
