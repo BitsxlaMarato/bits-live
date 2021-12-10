@@ -55,7 +55,7 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Lleida: Aula AXXX</span>
+            <span>Lleida: Aula 0.02</span>
           </div>
           <p>Necessites un descans? Estàs a Lleida? Vine a ballar amb nosaltres!!! Crema les energies dels canalons aixecar-te una estona de la cadira!</p>
         </div>
