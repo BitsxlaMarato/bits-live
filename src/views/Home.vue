@@ -40,7 +40,7 @@
             <a target="_blank" href="https://www.twitch.tv/hackersupc" class="external-link"><i class="fab fa-twitch" aria-hidden="true"></i> Xerrades al twitch de LleidaHack</a>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://bitsxlamarato-2020.devpost.com/" class="external-link">Devpost</a>
+            <a target="_blank" href="" class="external-link">Devpost</a>
           </div>
           <p><b>Estudiants de la FIB!</b> Recordeu que per obtenir els dos crèdits és obligatori penjar el projecte a Devpost!</p>
         </div>
@@ -49,7 +49,7 @@
         <h1>Contacte</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>Servidor slack (?)</span>
+          <span><a href="https://bitsxlamarato2021.slack.com/" target="_blank">Slack bitsxlaMarato 2021</a></span>
         </div>
         <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
