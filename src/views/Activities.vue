@@ -70,10 +70,9 @@
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A6001 & Lleida: 0.02</span>
         </div>
         <div>
-          <p color="#DDDDDD">Vídeo no disponible encara</p>
-          <!--<div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>-->
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/SsNK43IiFOA" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
       <div class="panel">
@@ -83,10 +82,9 @@
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A6001 & Lleida: 0.02</span>
         </div>
         <div>
-          <p color="#DDDDDD">Vídeo no disponible encara</p>
-          <!--<div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>-->
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/NXnUVusYmbI" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
     </div>
