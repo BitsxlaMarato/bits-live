@@ -1,6 +1,12 @@
 <template>
-  <div class="container">
-    <img src="public/assets/img/map-a6.png" alt="map">
+  <div id="rules" class="under-header padding-bottom">
+    <div class="container">
+      <div class="panel large">
+        <div>
+          <img src="public/assets/img/map-a6.png" alt="map">
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 

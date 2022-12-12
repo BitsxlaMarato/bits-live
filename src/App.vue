@@ -75,7 +75,7 @@
             <router-link to="/rules">Regles</router-link>
           </li>
           <li :class="isActive('/maps')">
-            <router-link to="/mapa">Mapa</router-link>
+            <router-link to="/maps">Mapa</router-link>
           </li>
         </ul>
       </nav>
