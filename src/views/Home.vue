@@ -7,8 +7,8 @@
         <div class="flex-containers">
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
-              <p class="label text-normal"><b>Xarxa:</b> #BITSxLAMARATO </p><br>
-              <p class="label text-normal"><b>Contrasenya:</b> 400?BxM22 </p>
+              <p class="label text-normal"><b class="icon">Xarxa:</b> <span> #BITSxLAMARATO </span></p><br>
+              <p class="label text-normal"><b class="icon">Contrasenya:</b> <span> 400?BxM22 </span> </p>
             </div>
           </div>
         </div>
