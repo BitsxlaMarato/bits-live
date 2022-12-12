@@ -1,4 +1,4 @@
-<template>
+<template xmlns="http://www.w3.org/1999/html">
   <div id="rules" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
@@ -41,19 +41,6 @@
             Us demanem que presenteu en forma de Demo del que heu creat i que compartiu els coneixements adquirits, no està permès presentar un PowerPoint sense cap demo real.<br/><br/>
             T'animem a penjar a Devpost el projecte que has fet encara que no hagis pogut acabar. Està bé si no has aconseguit el que volies, és comú a una hackató. La demo és una oportunitat d'ensenyar el que has après i el que has intentat crear, això és la màgia de les hackatons. Si no hi ha res que ens puguis ensenyar, també pots fer una presentació del que has intentat i que has après. També escolta el que els altres han après sempre és interessant i motivacional.<br/><br/>
             Només seràs apte a premi si presentes el projecte. Els premis s'avaluaran seguint el criteri de judging (el pots veure al final d'aquesta pàgina).
-          </p>
-        </div>
-      </div>
-      <div class="panel large">
-        <div style="text-align: justify;">
-          <div class="margin-bottom text-centered">
-            <h2>Normes COVID</h2>
-          </div>
-          <p class="margin-bottom">
-            A causa de la situació actual de pandèmia, es demanarà a tots els participants el certificat COVID a l'entrada de l'esdeveniment així com serà obligatori l'ús de mascareta.<br/><br/>
-            L'equip de bitsxlaMarató facilitarà mascaretes per tal de tenir un control de canvi de mascareta cada 4 hores. <br/><br/>
-            També és necessari tenir les finestres obertes, tot i el fred, durant 10 minuts cada hora. <br/><br/>
-            Per menjar és necessari sortir a l'exterior, no està permès menjar dins les aules no específiques per aquesta finalitat.
           </p>
         </div>
       </div>

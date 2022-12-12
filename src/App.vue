@@ -40,8 +40,8 @@
           <li :class="isActive('/rules')">
             <router-link to="/rules">Regles</router-link>
           </li>
-          <li :class="isActive('/faq')">
-            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
+          <li :class="isActive('/maps')">
+            <router-link to="/mapa">Mapa</router-link>
           </li>
         </ul>
       </nav>
@@ -74,8 +74,8 @@
           <li :class="isActive('/rules')">
             <router-link to="/rules">Regles</router-link>
           </li>
-          <li :class="isActive('/faq')">
-            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
+          <li :class="isActive('/maps')">
+            <router-link to="/mapa">Mapa</router-link>
           </li>
         </ul>
       </nav>
