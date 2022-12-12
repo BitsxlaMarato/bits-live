@@ -5,10 +5,6 @@
         <h1>Informació important</h1>
         <h3 class="text-centered margin-bottom">Credencials pel Wi-Fi</h3>
         <div class="flex-containers">
-          <div class="margin-bottom text-centered">
-            <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona</span>
-          </div>
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
               <p class="label text-normal"><b>Xarxa:</b> #BITSxLAMARATO </p><br>
@@ -66,31 +62,30 @@
             <div class="margin-bottom text-centered">
               <p>Si veniu amb tren, heu d'agafar l'L3, direcció <b>Zona Universitària</b> fins a l'estació de <b>Palau Reial</b>. <br><br> Des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB. També podeu agafar el tram fins a la parada de <b>Palau Reial</b>.</p>
             </div>
+          </div>
         </div>
         <div class="get-there">
           <h2 class="get-title text-centered margin-bottom"><i class="fa fa-bus" aria-hidden="true"></i> Amb autobús</h2>
           <div class="flex-containers">
-            <p>Si veniu amb autobús, us serviran qualsevol dels següents autobusos:</p>
-            <ul>
-              <li><b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>  un cop allà estareu al costat del campus.</li>
-              <li><b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.</li>
-            </ul>
+            <div class="margin-bottom text-centered">
+              <p>Si veniu amb autobús, us serviran qualsevol dels següents autobusos:</p>
+              <ul>
+                <li><b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>  un cop allà estareu al costat del campus.</li>
+                <li><b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.</li>
+              </ul>
+            </div>
           </div>
         </div>
         <div class="get-there">
           <h2 class="get-title text-centered margin-bottom"><i class="fa fa-car" aria-hidden="true"></i> Amb cotxe</h2>
           <div class="flex-containers">
-            <p>Si veniu amb cotxe, podreu trobar lloc on aparcar a la part superior del campus, pels carrers: <i>Sor Eulàlia d'Anzizu</i> o <i>Cavallers</i>.</p>
+            <div class="margin-bottom text-centered">
+              <p>Si veniu amb cotxe, podreu trobar lloc on aparcar a la part superior del campus, pels carrers: <i>Sor Eulàlia d'Anzizu</i> o <i>Cavallers</i>.</p>
+            </div>
           </div>
         </div>
         <div class="buttons margin-bottom">
-          <a target="_blank" href="https://goo.gl/maps/6cPXChrm9GZVXimC7" class="external-link">Google Maps - Barcelona</a>
-        </div>
-      </div>
-      <div class="panel large no-margin" style="height: 100%">
-        <h1>Spot de la Marató de TV3</h1>
-        <div class="embed-container">
-          <iframe src="https://www.youtube.com/embed/QYQdE0u78M4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <a target="_blank" href="https://goo.gl/maps/6cPXChrm9GZVXimC7" class="external-link">Google Maps</a>
         </div>
       </div>
     </div>
