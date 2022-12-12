@@ -7,8 +7,8 @@
         <div class="flex-containers">
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
-              <p class="label text-normal"><b class="icon">Xarxa:</b> <span> #BITSxLAMARATO </span></p><br>
-              <p class="label text-normal"><b class="icon">Contrasenya:</b> <span> 400?BxM22 </span> </p>
+              <p class="label text-normal"><b>Xarxa:</b> <span> #BITSxLAMARATO </span></p>
+              <p class="label text-normal"><b>Contrasenya:</b> <span> 400?BxM22 </span> </p>
             </div>
           </div>
         </div>
@@ -69,10 +69,8 @@
           <div class="flex-containers">
             <div class="margin-bottom text-centered">
               <p>Si veniu amb autobús, us serviran qualsevol dels següents autobusos:</p>
-              <ul>
-                <li><b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>  un cop allà estareu al costat del campus.</li>
-                <li><b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.</li>
-              </ul>
+              <b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>  un cop allà estareu al costat del campus. <br>
+              <b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.
             </div>
           </div>
         </div>

@@ -11,9 +11,8 @@
                   <th>Comença</th>
                   <th>Acaba</th>
                   <th style="width: 30%">Títol</th>
-                  <th style="width: 20%">Lleida</th>
-                  <th style="width: 20%">Barcelona</th>
-                  <th style="width: 20%">Online</th>
+                  <th style="width: 20%">Localització</th>
+                  <th style="width: 40%">Descripció</th>
                 </tr>
               </thead>
               <tbody>
@@ -21,9 +20,8 @@
                   <td>{{event.startHour}}</td>
                   <td>{{event.endHour}}</td>
                   <td style="width: 30%">{{event.title}}</td>
-                  <td style="width: 20%">{{event.lleida}}</td>
-                  <td style="width: 20%">{{event.bcn}}</td>
-                  <td style="width: 20%">{{event.online}}</td>
+                  <td style="width: 20%">{{event.localization}}</td>
+                  <td style="width: 40%">{{event.description}}</td>
                 </tr>
               </tbody>
             </table>
