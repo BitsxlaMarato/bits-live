@@ -18,7 +18,7 @@
           <div class="margin-bottom text-centered">
             <h2>Regles de bitsxlaMarató</h2>
           </div>
-          <p class="margin-bottom">
+          <div class="margin-bottom">
             <ol>
               <li>No hi ha nombre mínim de participants per equip. Encara que nosaltres recomanem ser 4, si sou més el màxim és 5</li><br/>
               <li>No cal dir que els equips poden demanar en tot moment ajuda als organitzadors, voluntaris, patrocinadors, mentors i fins i tot altres equips.</li><br/>
@@ -28,7 +28,7 @@
               <li>Els projectes que trenquin el Codi de Conducta no estan autoritzats.</li><br/>
               <li>S'ha de complir la protecció de dades i propietat intel·lectual.</li>
             </ol>
-          </p>
+          </div>
         </div>
       </div>
       <div class="panel large">
