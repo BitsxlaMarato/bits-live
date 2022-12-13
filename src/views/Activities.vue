@@ -77,7 +77,7 @@ export default {
 }
 
 .videos-challenge {
-  display: flex; 
+  display: flex;
   gap: 10px;
 }
 
