@@ -7,7 +7,7 @@
         <div class="flex-containers">
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
-              <p class="label text-normal"><b>Xarxa:</b> <span> #BITSxLAMARATO </span></p> <br><br>
+              <p class="label text-normal"><b>Xarxa:</b> <span> #BITSxLAMARATO </span></p> <br>
               <p class="label text-normal"><b>Contrasenya:</b> <span> 400?BxM22 </span> </p>
             </div>
           </div>
@@ -26,7 +26,7 @@
         <h1>Contacte</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span><a href="https://bitsxlamarat2022.slack.com" target="_blank">Slack bitsxlaMarato 2021</a></span>
+          <span><a href="https://bitsxlamarat2022.slack.com" target="_blank">Slack bitsxlaMarato 2022</a></span>
         </div>
         <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
