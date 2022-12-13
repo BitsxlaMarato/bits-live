@@ -60,7 +60,7 @@
             <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato-2022" target="_blank" class="external-link">Donatius</a>
           </li>
           <li @click="toggleFullscreen" id="countdown-li">
             <Countdown/>

@@ -85,7 +85,7 @@
           </div>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposen i col·laboren:</b> <span>Xartec Salut</span> <span>Associació ActivaTT</span>
+            <b>Proposen i col·laboren:</b> <span>CREB</span> <span>Xartec Salut</span> <span>Associació ActivaTT</span>
           </div>
         </div>
       </div>

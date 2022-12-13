@@ -62,7 +62,7 @@
 					"title": "Xerrada repte alerta trombosi",
 					"startHour": "21:00",
 					"endHour": "21:30",
-					"localization": "Aula A6002",
+					"localization": "Aula A5002",
 					"description": "Si participes al repte, vine a coneixer més detalls que t'ajudaràn a desenvolupar millor"
 				},
 				{
@@ -78,13 +78,13 @@
 					"title": "Xerrada repte edge i cloud contra ictus",
 					"startHour": "21:30",
 					"endHour": "22:00",
-					"localization": "Aula A6002",
+					"localization": "Aula A5002",
 					"description": "Si participes al repte, vine a coneixer més detalls que t'ajudaràn a desenvolupar millor"
 				},
 				{
 					"id": "9",
 					"title": "Fins demà! Tothom a casa!",
-					"startHour": "23:30"
+					"startHour": "23:00"
 				}
 			]
 		},
