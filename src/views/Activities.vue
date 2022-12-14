@@ -70,7 +70,7 @@ export default {
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
-  max-width: 100%;
+  width: 50%;
 }
 .embed{
   position: absolute;
@@ -88,6 +88,10 @@ export default {
 @media (max-width: 768px) {
   .videos-challenge {
     flex-direction: column;
+  }
+
+  .embed-container {
+    width: 100%;
   }
 }
 </style>
