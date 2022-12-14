@@ -3,7 +3,7 @@
     <div class="container">
       <div class="panel large">
         <div class="text-centered">
-          <img src="/assets/img/map-a6.png" alt="map">
+          <img src="/assets/img/mapas.jpg" alt="map">
         </div>
       </div>
     </div>
