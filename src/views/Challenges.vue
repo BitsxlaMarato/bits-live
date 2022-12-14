@@ -2,6 +2,23 @@
   <div id="schedule" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
+        <h1>Accés a Marenostrum 4</h1>
+        <p>
+          Si estàs participant al repte de les proteïnes tenir accés a Marenostrum4 durant aquest cap de setmana, si el necessites contacta a qualsevol organizer al canal de <span>#ajuda</span> de l'slack i t'ajudaran a aconseguir accés.<br><br>
+          Això ha estat possible gràcies al Barcelona Supercomputing Center (BSC)!
+        </p>
+        <div>
+          <h4 class="text-centered margin-bottom">Xarxes socials BSC</h4>
+          <div class="buttons">
+            <a class="fb" target="_blank" href="https://www.facebook.com/BSCCNS"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+            <a class="tw" target="_blank" href="https://twitter.com/bsc_cns"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a class="ig" target="_blank" href="https://www.instagram.com/bsc_cns/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+            <a class="yt" target="_blank" href="https://www.youtube.com/user/BSCCNS"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+            <a class="li" target="_blank" href="https://www.linkedin.com/company/barcelona-supercomputing-center"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="panel large">
         <h1>El ratolí com a eina per lluitar contra l'assassí d'Albert Einstein</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
