@@ -15,23 +15,23 @@
 					"title": "Registre",
 					"startHour": "17:00",
 					"endHour": "18:00",
-					"localization": "Entrada del edifici Vértex",
-					"description": "Vine amb un carnet amb photo per completar el registre i poder gaudir de l'esdeveniment"
+					"localization": "Entrada del edifici Vèrtex",
+					"description": "Vine amb un carnet amb foto per completar el registre i poder gaudir de l'esdeveniment"
 				},
 				{
 					"id": "1",
 					"title": "Cerimònia d'obertura",
 					"startHour": "18:00",
 					"endHour": "19:00",
-					"localization": "Sala d'actes del Vértex",
-					"description": "Apren una mica més dels reptes i del funcionament de la hackató"
+					"localization": "Sala d'actes del Vèrtex",
+					"description": "Aprèn una mica més dels reptes i del funcionament de la hackathon"
 				},
 				{
 					"id": "2",
 					"title": "Comença el temps de hacking",
 					"startHour": "19:00",
 					"localization": "Edifici A6 - Aules planta 1 i 2",
-					"description": "It's on! Comença el temps per començar a crear projectes!!"
+					"description": "It's on! Comença el temps per crear projectes!!"
 				},
 				{
 					"id": "3",
@@ -39,7 +39,7 @@
 					"startHour": "19:30",
 					"endHour": "20:00",
 					"localization": "Aula A6001",
-					"description": "No tens equip? Aquesta es la teva activitat! Troba gent amb la que poder crear un projecte"
+					"description": "No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
 				},
 				{
 					"id": "4",
@@ -51,11 +51,11 @@
 				},
 				{
 					"id": "5",
-					"title": "Xerrada repte l'assesí de l'Albert Einstein",
+					"title": "Xerrada repte l'assassí de l'Albert Einstein",
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6001",
-					"description": "Si participes al repte, vine a coneixer més detalls que t'ajudaràn a desenvolupar millor"
+					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "6",
@@ -63,7 +63,7 @@
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A5002",
-					"description": "Si participes al repte, vine a coneixer més detalls que t'ajudaràn a desenvolupar millor"
+					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "6",
@@ -71,7 +71,7 @@
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6001",
-					"description": "Si participes al repte, vine a coneixer més detalls que t'ajudaràn a desenvolupar millor"
+					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "8",
@@ -79,7 +79,7 @@
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A5002",
-					"description": "Si participes al repte, vine a coneixer més detalls que t'ajudaràn a desenvolupar millor"
+					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "9",
@@ -104,7 +104,7 @@
 					"startHour": "09:00",
 					"endHour": "10:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "Toca agafar força per un día dur!! 🍽"
+					"description": "Toca agafar força per un dia dur!! 🍽"
 				},
 				{
 					"id": "12",
@@ -128,7 +128,7 @@
 					"startHour": "17:00",
 					"endHour": "18:00",
 					"localization": "A6001",
-					"description": "Desconecta una estona de tanta pantalla i vine a pasar una estona divertida"
+					"description": "Desconnecta de tanta pantalla i vine a passar una estona divertida"
 				},
 				{
 					"id": "15",
@@ -161,7 +161,7 @@
 					"startHour": "09:00",
 					"endHour": "10:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "Toca agafar força per un día dur!! 🍽"
+					"description": "Toca agafar força per un dia dur!! 🍽"
 				},
 				{
 					"id": "19",
@@ -189,8 +189,8 @@
 					"title": "Cerimònia de clausura",
 					"startHour": "15:30",
 					"endHour": "16:30",
-					"localization": "Sala d'actes del Vértex",
-					"description": "Es hora de coneixer els guanyadors i de despedir-nos..."
+					"localization": "Sala d'actes del Vèrtex",
+					"description": "Es hora de conèixer els guanyadors i de despedir-nos..."
 				},
 				{
 					"id": "24",

@@ -22,8 +22,8 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>Poliesportiu de l'UPC, Sala Hard</span>
           </div>
-          <p class="margin-bottom">Per participar descarregat l'aplicació "SPIVI" al teu mobil</p>
-          <p class="margin-bottom"> Vine a participar de una activitat de ciclisme indoor en la que entre tots es lluitarà per aconseguir el número de kilómetres més alt. Per aconseguir-ho es hi haurà dos torns de 30 minuts. </p>
+          <p class="margin-bottom">Per participar descarregat l'aplicació "SPIVI" al teu mòbil</p>
+          <p class="margin-bottom"> Vine a participar en una activitat de ciclisme indoor en la que entre tots es lluitarà per aconseguir el nombre de kilòmetres més alt. Per aconseguir-ho, hi haurà dos torns de 30 minuts. </p>
           <div class="videos-challenge">
             <iframe src="/assets/img/activities/indoor1.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <iframe src="/assets/img/activities/indoor2.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,7 +37,7 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>Edifici exterior del A6</span>
           </div>
-          <p>Posarem un altaveu amb microfons, estigues atent a slack perque avisarem en els moments on estigui disponible i puguis desconectar una estoneta del codi.</p>
+          <p>Posarem un altaveu amb micròfons, estigues atent a Slack perquè avisarem en els moments on estigui disponible i puguis desconnectar una estoneta del codi</p>
         </div>
       </div>
       <div class="panel">
