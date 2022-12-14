@@ -25,8 +25,12 @@
           <p class="margin-bottom">Per participar descarregat l'aplicació "SPIVI" al teu mòbil</p>
           <p class="margin-bottom"> Vine a participar en una activitat de ciclisme indoor en la que entre tots es lluitarà per aconseguir el nombre de kilòmetres més alt. Per aconseguir-ho, hi haurà dos torns de 30 minuts. </p>
           <div class="videos-challenge">
-            <iframe src="/assets/img/activities/indoor1.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <iframe src="/assets/img/activities/indoor2.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div>
+              <iframe src="/assets/img/activities/indoor1.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div>
+              <iframe src="/assets/img/activities/indoor2.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
           </div>
         </div>
       </div>
