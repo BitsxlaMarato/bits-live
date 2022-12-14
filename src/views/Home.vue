@@ -75,10 +75,26 @@
           </div>
         </div>
         <div class="get-there">
+          <h2 class="get-title text-centered margin-bottom"><i class="fa fa-bicycle" aria-hidden="true"></i> Amb bici</h2>
+          <div class="flex-containers">
+            <div class="margin-bottom text-centered">
+              <p>Si veniu amb bici, trobareu lloc per aparcar a l'interior del campus, no us olvideu el candau, hi ha barres per biciletes per tot arreu!.</p>
+            </div>
+          </div>
+        </div>
+        <div class="get-there">
           <h2 class="get-title text-centered margin-bottom"><i class="fa fa-car" aria-hidden="true"></i> Amb cotxe</h2>
           <div class="flex-containers">
             <div class="margin-bottom text-centered">
               <p>Si veniu amb cotxe, podreu trobar lloc on aparcar a la part superior del campus, pels carrers: <i>Sor Eulàlia d'Anzizu</i> o <i>Cavallers</i>.</p>
+            </div>
+          </div>
+        </div>
+        <div class="get-there">
+          <h2 class="get-title text-centered margin-bottom"><i class="fa fa-motorcycle" aria-hidden="true"></i> Amb moto</h2>
+          <div class="flex-containers">
+            <div class="margin-bottom text-centered">
+              <p>Si entreu pel campus a través del carrer Santa Maria Cervelló i paseu pel costat de la barrera, trobareu a l'interior de campus un parking de motos</p>
             </div>
           </div>
         </div>
