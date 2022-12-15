@@ -23,7 +23,7 @@
             <span>Poliesportiu de l'UPC, Sala Hard</span>
           </div>
           <p class="margin-bottom">Per participar descarregat l'aplicació "SPIVI" al teu mòbil</p>
-          <p class="margin-bottom"> Vine a participar en una activitat de ciclisme indoor en la que entre tots es lluitarà per aconseguir el nombre de kilòmetres més alt. Per aconseguir-ho, hi haurà dos torns de 30 minuts. </p>
+          <p class="margin-bottom"> Vine a participar en una activitat de ciclisme indoor en la que entre tots es lluitarà per aconseguir el nombre de kilòmetres més alt. Per aconseguir-ho, hi haurà dos torns de 30 minuts. Estigues atent a Slack i no t'oblidis portar una tovallola si vols participar. Anima't, serà divertit!!</p>
           <div class="videos-challenge">
             <div class="embed-container">
               <iframe src="/assets/img/activities/indoor1.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

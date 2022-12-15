@@ -19,7 +19,7 @@
           <div class="buttons margin-bottom">
             <a target="_blank" href="https://bitsxlamarato-2022.devpost.com/" class="external-link">Devpost</a>
           </div>
-          <p><b>Estudiants de la FIB!</b> Recordeu que per obtenir els dos crèdits és obligatori penjar el projecte a Devpost!</p>
+          <p><b>Estudiants de la FIB!</b> Recordeu que per obtenir els dos crèdits és obligatori penjar el projecte a Devpost i presentar-lo al jurat!</p>
         </div>
       </div>
       <div class="panel" style="align-self: flex-start;">
