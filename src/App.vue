@@ -29,7 +29,7 @@
             <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato-2022" target="_blank" class="external-link">Donatius</a>
           </li>
           <li :class="isActive('/challenges')">
             <router-link to="/challenges">Reptes</router-link>
@@ -40,8 +40,8 @@
           <li :class="isActive('/rules')">
             <router-link to="/rules">Regles</router-link>
           </li>
-          <li :class="isActive('/faq')">
-            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
+          <li :class="isActive('/maps')">
+            <router-link to="/maps">Mapa</router-link>
           </li>
         </ul>
       </nav>
@@ -60,7 +60,7 @@
             <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato-2022" target="_blank" class="external-link">Donatius</a>
           </li>
           <li @click="toggleFullscreen" id="countdown-li">
             <Countdown/>
@@ -74,8 +74,8 @@
           <li :class="isActive('/rules')">
             <router-link to="/rules">Regles</router-link>
           </li>
-          <li :class="isActive('/faq')">
-            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" class="external-link">Pàgina web</a>
+          <li :class="isActive('/maps')">
+            <router-link to="/maps">Mapa</router-link>
           </li>
         </ul>
       </nav>

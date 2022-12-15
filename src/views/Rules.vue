@@ -18,9 +18,9 @@
           <div class="margin-bottom text-centered">
             <h2>Regles de bitsxlaMarató</h2>
           </div>
-          <p class="margin-bottom">
+          <div class="margin-bottom">
             <ol>
-              <li>No hi ha nombre mínim de participants per equip. Encara que nosaltres recomanem ser 4, si sou més el màxim és 5</li><br/>
+              <li>No hi ha nombre mínim de participants per equip. Encara que nosaltres recomanem ser 4, si sou més el màxim és 5.</li><br/>
               <li>No cal dir que els equips poden demanar en tot moment ajuda als organitzadors, voluntaris, patrocinadors, mentors i fins i tot altres equips.</li><br/>
               <li>El desenvolupament del projecte pot començar abans de la hackató.</li><br/>
               <li>Els equips poden utilitzar una idea d'abans de l'esdeveniment sempre que pugui ser part d'un dels reptes plantejats.</li><br/>
@@ -28,7 +28,7 @@
               <li>Els projectes que trenquin el Codi de Conducta no estan autoritzats.</li><br/>
               <li>S'ha de complir la protecció de dades i propietat intel·lectual.</li>
             </ol>
-          </p>
+          </div>
         </div>
       </div>
       <div class="panel large">
@@ -38,22 +38,9 @@
           </div>
           <p class="margin-bottom">
             Quan el temps de programació s'ha acabat, els equips han de presentar el seu projecte al lloc assignat.<br/><br/>
-            Us demanem que presenteu en forma de Demo del que heu creat i que compartiu els coneixements adquirits, no està permès presentar un PowerPoint sense cap demo real.<br/><br/>
+            Us demanem que presenteu en forma de demo del que heu creat i que compartiu els coneixements adquirits, no està permès presentar un PowerPoint sense cap demo real.<br/><br/>
             T'animem a penjar a Devpost el projecte que has fet encara que no hagis pogut acabar. Està bé si no has aconseguit el que volies, és comú a una hackató. La demo és una oportunitat d'ensenyar el que has après i el que has intentat crear, això és la màgia de les hackatons. Si no hi ha res que ens puguis ensenyar, també pots fer una presentació del que has intentat i que has après. També escolta el que els altres han après sempre és interessant i motivacional.<br/><br/>
             Només seràs apte a premi si presentes el projecte. Els premis s'avaluaran seguint el criteri de judging (el pots veure al final d'aquesta pàgina).
-          </p>
-        </div>
-      </div>
-      <div class="panel large">
-        <div style="text-align: justify;">
-          <div class="margin-bottom text-centered">
-            <h2>Normes COVID</h2>
-          </div>
-          <p class="margin-bottom">
-            A causa de la situació actual de pandèmia, es demanarà a tots els participants el certificat COVID a l'entrada de l'esdeveniment així com serà obligatori l'ús de mascareta.<br/><br/>
-            L'equip de bitsxlaMarató facilitarà mascaretes per tal de tenir un control de canvi de mascareta cada 4 hores. <br/><br/>
-            També és necessari tenir les finestres obertes, tot i el fred, durant 10 minuts cada hora. <br/><br/>
-            Per menjar és necessari sortir a l'exterior, no està permès menjar dins les aules no específiques per aquesta finalitat.
           </p>
         </div>
       </div>
@@ -65,7 +52,7 @@
           <p class="margin-bottom">
             Per fer aquest esdeveniment una experiència enriquidora, intenta coses diferents, ensenya a altres i fes amics.<br /><br />
 
-            <i>Happy Hacking del equip de bitsxLaMarató!</i>
+            <i>Happy Hacking de l'equip de bitsxLaMarató!</i>
           </p>
         </div>
       </div>
@@ -77,7 +64,7 @@
           <div class="margin-bottom text-centered">
             <h2>Tecnologia</h2>
           </div>
-          <p class="margin-bottom">Que tan impressionant tècnicament ha sigut la hack?</p><br/>
+          <p class="margin-bottom">Què tan impressionant tècnicament ha sigut la hack?</p><br/>
           <p class="margin-bottom">Ha sigut difícil el problema tècnic que ha abordat l'equip?</p><br/>
           <p class="margin-bottom">Han utilitzat alguna tècnica especialment intel·ligent o han utilitzat molts components diferents?</p><br/>
           <p class="margin-bottom">La tecnologia utilitzada et fa tenir l'efecte "Wow"?</p>

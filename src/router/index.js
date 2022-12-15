@@ -1,13 +1,13 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Home from '@/views/Home.vue';
-import FAQ from '@/views/FAQ.vue';
 import Activities from '@/views/Activities.vue';
 import Challenges from '@/views/Challenges.vue';
 import Schedule from '@/views/Schedule.vue';
 import Live from '@/views/Live.vue';
 import Rules from '@/views/Rules.vue';
 import FullScreen from '@/views/FullScreen.vue';
+import Maps from '@/views/Maps.vue';
 
 Vue.use(VueRouter);
 
@@ -18,9 +18,9 @@ const routes = [
     component: Home,
   },
   {
-    path: '/faq',
-    name: 'FAQ',
-    component: FAQ,
+    path: '/maps',
+    name: 'Maps',
+    component: Maps,
   },
   {
     path: '/activities',

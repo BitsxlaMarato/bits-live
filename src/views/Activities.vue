@@ -9,35 +9,29 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: A6001 & Google Meet</span>
+            <span>A6001</span>
           </div>
           <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! </p>
-          <p class="margin-bottom"> Vine a l'aula si estàs a Barcelona o connecta't per Google Meet si estàs en línia o a Lleida, trobarem un equip per tu o completarem el teu! </p>
+          <p class="margin-bottom"> Vine a l'aula A6001, trobarem un equip per tu o completarem el teu! </p>
         </div>
       </div>
-      <div class="panel">
-        <h1 style="text-transform: uppercase;">Creixement personal en equip <br>a través dels cavalls</h1>
+      <div class="panel large">
+        <h1>IndoorBits</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span><a target="_blank" href="https://goo.gl/maps/bWtestxF4rHi3To3A">Mas Sant Jordi S/N, 25430 Juneda, Lleida</a></span>
+            <span>Poliesportiu de l'UPC, Sala Hard</span>
           </div>
-          <p class="margin-bottom">
-            A partir de propostes vivencials d'interacció amb cavalls, podrem descobrir habilitats personals i socials afavorides pel benestar propi i la salut emocional individual i del grup
-          </p>
-          <p class="margin-bottom" style="font-style: italic">
-            Desde la organització volem recordar que <b>cal portar roba d'abric</b> ja que l'activitat tindrà lloc a l'exterior. En cas de no disposar de coche el punt de sortida es a les 9:00 a la EPS, en cas de tenir coche ens trobem a les 9:30 al Mas.
-          </p>
-        </div>
-      </div>
-      <div class="panel">
-        <h1 style="text-transform: uppercase;">Escoltar i escoltar-nos, per poder acompanyar</h1>
-        <div>
-          <div class="margin-bottom text-centered">
-            <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: Aula A6104</span>
+          <p class="margin-bottom">Per participar descarregat l'aplicació "SPIVI" al teu mòbil</p>
+          <p class="margin-bottom"> Vine a participar en una activitat de ciclisme indoor en la que entre tots es lluitarà per aconseguir el nombre de kilòmetres més alt. Per aconseguir-ho, hi haurà dos torns de 30 minuts. Estigues atent a Slack i no t'oblidis portar una tovallola si vols participar. Anima't, serà divertit!!</p>
+          <div class="videos-challenge">
+            <div class="embed-container">
+              <iframe src="/assets/img/activities/indoor1.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="embed-container">
+              <iframe src="/assets/img/activities/indoor2.mp4" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
           </div>
-          <p>Es farà sessions de l’activitat de 30’-40’ cadascuna, durant les dues hores. L’objectiu de l’activitat és exactament el que diu el títol. La primera part de cada sessió serà un exercici de meditació d'atendre al cos i descubrir que si l'escoltem i acceptem el que ens passa, podem entendre i reparar dolors físics i emocionals. Després, a la segona part de la sessió, es farà un treball pràctic en petit grups per saber com s’ha de ajudar i acompanyar a aquestes persones afectades per un transtorn mental o emocional.</p>
         </div>
       </div>
       <div class="panel">
@@ -45,46 +39,19 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Barcelona: Aula A6001</span>
+            <span>Edifici exterior del A6</span>
           </div>
-          <p>Necessites un descans? Estàs a Barcelona? Vine a cantar amb nosaltres!!! Demana la cançó que més t'agradi (nadales, cançons de la Marató) i canta!</p>
+          <p>Posarem un altaveu amb micròfons, estigues atent a Slack perquè avisarem en els moments on estigui disponible i puguis desconnectar una estoneta del codi</p>
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Just Dance!</h1>
+        <h1 style="text-transform: uppercase;">Construïm Lego!</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Lleida: Aula 0.02</span>
+            <span>A6001</span>
           </div>
-          <p>Necessites un descans? Estàs a Lleida? Vine a ballar amb nosaltres!!! Crema les energies dels canalons aixecar-te una estona de la cadira!</p>
-        </div>
-      </div>
-      <div class="panel large">
-        <h1 class="activity-title">Xerrades</h1>
-      </div>
-      <div class="panel">
-        <h1 style="text-transform: uppercase;">Xerrada repte planificació</h1>
-        <div class="margin-bottom text-centered">
-          <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A6001 & Lleida: 0.02</span>
-        </div>
-        <div>
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/SsNK43IiFOA" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-        </div>
-      </div>
-      <div class="panel">
-        <h1 style="text-transform: uppercase;">Xerrada repte proteïnes</h1>
-        <div class="margin-bottom text-centered">
-          <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a> & BCN: A6001 & Lleida: 0.02</span>
-        </div>
-        <div>
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/NXnUVusYmbI" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
+          <p>Deixa volar la teva creativitat a la nostra activitat de Lego! En equips competireu per fer les millors figures de lego abans de que s'acabi el temps</p>
         </div>
       </div>
     </div>
@@ -103,7 +70,7 @@ export default {
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
-  max-width: 100%;
+  width: 50%;
 }
 .embed{
   position: absolute;
@@ -111,5 +78,20 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.videos-challenge {
+  display: flex;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .videos-challenge {
+    flex-direction: column;
+  }
+
+  .embed-container {
+    width: 100%;
+  }
 }
 </style>
