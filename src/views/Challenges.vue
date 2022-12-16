@@ -4,7 +4,7 @@
       <div class="panel large">
         <h1>Accés a Marenostrum 4</h1>
         <p>
-          Si per poder desenvolupar millor teu repte necessites accés a MareNostrum4 durant aquest cap de setmana, el pots demanar contactant a qualsevol organizer al canal d' <span>#ajuda</span> de l'Slack i t'ajudaran a aconseguir accés.<br><br>
+          Si per poder desenvolupar millor el teu repte necessites accés a MareNostrum4 durant aquest cap de setmana, el pots demanar contactant a qualsevol organizer al canal d' <span>#ajuda</span> de l'Slack i t'ajudaran a aconseguir accés.<br><br>
           Això ha estat possible gràcies al Barcelona Supercomputing Center (BSC)!
         </p>
         <div>
