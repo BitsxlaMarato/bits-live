@@ -9,7 +9,7 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>A6001</span>
+            <span>A5002</span>
           </div>
           <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! Vine a l'aula A6001, trobarem un equip per tu o completarem el teu! </p>
         </div>
