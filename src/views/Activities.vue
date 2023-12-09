@@ -4,18 +4,27 @@
       <div class="panel large">
         <h1 class="activity-title">Activitats</h1>
       </div>
-      <div class="panel large">
-        <h1>TEAM BUILDING</h1>
+      <div class="panel">
+        <h1>Team Building</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>A6001</span>
           </div>
-          <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! </p>
-          <p class="margin-bottom"> Vine a l'aula A6001, trobarem un equip per tu o completarem el teu! </p>
+          <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! Vine a l'aula A6001, trobarem un equip per tu o completarem el teu! </p>
         </div>
       </div>
-      <div class="panel large">
+      <div class="panel">
+        <h1>Xerrada Git</h1>
+        <div>
+          <div class="margin-bottom text-centered">
+            <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
+            <span>A6001</span>
+          </div>
+          <p class="margin-bottom"> Tens dubtes amb Git i GitHub? Vols descobrir-ho perquè no saps de què parlem? Vine a la xerrada i resol tot els teus dubtes sobre com treballar en equip en un projecte de software! </p>
+        </div>
+      </div>
+      <!--<div class="panel large">
         <h1>IndoorBits</h1>
         <div>
           <div class="margin-bottom text-centered">
@@ -34,6 +43,7 @@
           </div>
         </div>
       </div>
+      TODO: Activitat Dani-->
       <div class="panel">
         <h1 style="text-transform: uppercase;">Karaoke!</h1>
         <div>
@@ -45,13 +55,13 @@
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Construïm Lego!</h1>
+        <h1 style="text-transform: uppercase;">Mataconills</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>A6001</span>
+            <span>Edifici exterior del A5</span>
           </div>
-          <p>Deixa volar la teva creativitat a la nostra activitat de Lego! En equips competireu per fer les millors figures de lego abans de que s'acabi el temps</p>
+          <p>Prente un descans de la pantalla de la manera més saludable possible i disfruta jugant al mataconills amb els teus companys!</p>
         </div>
       </div>
     </div>
