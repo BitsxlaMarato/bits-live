@@ -8,7 +8,7 @@
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
               <p class="label text-normal"><b>Xarxa:</b> <span> #BITSxLAMARATO </span></p> <br>
-              <p class="label text-normal"><b>Contrasenya:</b> <span> 400?BxM22 </span> </p>
+              <p class="label text-normal"><b>Contrasenya:</b> <span> 400?BxM23 </span> </p>
             </div>
           </div>
         </div>
