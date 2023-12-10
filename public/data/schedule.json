@@ -36,8 +36,8 @@
 				{
 					"id": "3",
 					"title": "Team Building",
-					"startHour": "19:30",
-					"endHour": "20:00",
+					"startHour": "19:00",
+					"endHour": "19:30",
 					"localization": "Aula A5002",
 					"description": "No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
 				},
@@ -59,7 +59,7 @@
 				},
 				{
 					"id": "6",
-					"title": "Xerrada 1",
+					"title": "Dràcula",
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6001",
@@ -67,7 +67,7 @@
 				},
 				{
 					"id": "7",
-					"title": "Xerrada 2",
+					"title": "SedEx+",
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A5002",
@@ -75,7 +75,7 @@
 				},
 				{
 					"id": "8",
-					"title": "Xerrada 3",
+					"title": "Línies de la vida",
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6001",
@@ -83,7 +83,7 @@
 				},
 				{
 					"id": "9",
-					"title": "Xerrada 4",
+					"title": "Microbioma seminal",
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A5002",
@@ -187,7 +187,7 @@
 				{
 					"id": "22",
 					"title": "Presentacions dels projectes",
-					"startHour": "13:30",
+					"startHour": "12:45",
 					"endHour": "14:30",
 					"localization": "TBD",
 					"description": "Hora de presentar el que heu construït durant el cap de setmana"
@@ -195,7 +195,7 @@
 				{
 					"id": "23",
 					"title": "Cerimònia de clausura",
-					"startHour": "15:30",
+					"startHour": "15:15",
 					"endHour": "16:30",
 					"localization": "Sala d'actes del Vèrtex",
 					"description": "Es hora de conèixer els guanyadors i de despedir-nos..."
