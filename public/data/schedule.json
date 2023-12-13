@@ -38,7 +38,7 @@
 					"title": "Team Building",
 					"startHour": "19:00",
 					"endHour": "19:30",
-					"localization": "Aula A5002",
+					"localization": "Aula A6002",
 					"description": "No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
 				},
 				{
@@ -59,7 +59,7 @@
 				},
 				{
 					"id": "6",
-					"title": "Dràcula",
+					"title": "Xerrada repte Dràcula",
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6001",
@@ -67,15 +67,15 @@
 				},
 				{
 					"id": "7",
-					"title": "SedEx+",
+					"title": "Xerrada repte SedEx+",
 					"startHour": "21:00",
 					"endHour": "21:30",
-					"localization": "Aula A5002",
+					"localization": "Aula A6002",
 					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "8",
-					"title": "Línies de la vida",
+					"title": "Xerrada repte línies de la vida",
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6001",
@@ -83,10 +83,10 @@
 				},
 				{
 					"id": "9",
-					"title": "Microbioma seminal",
+					"title": "Xerrada repte microbioma seminal",
 					"startHour": "21:30",
 					"endHour": "22:00",
-					"localization": "Aula A5002",
+					"localization": "Aula A6002",
 					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
@@ -116,11 +116,11 @@
 				},
 				{
 					"id": "13",
-					"title": "Activitat Dani",
+					"title": "Mataconills",
 					"startHour": "10:00",
 					"endHour": "11:00",
-					"localization": "Unknown",
-					"description": "TBD"
+					"localization": "Exterior de l'edifici A5",
+					"description": "Prente un descans de la pantalla de la manera més saludable possible i disfruta jugant al mataconills amb els teus companys!"
 				},
 				{
 					"id": "14",
@@ -132,14 +132,22 @@
 				},
 				{
 					"id": "15",
-					"title": "Mataconills",
-					"startHour": "17:00",
-					"endHour": "18:00",
-					"localization": "Exterior de l'edifici A5",
-					"description": "Prente un descans de la pantalla de la manera més saludable possible i disfruta jugant al mataconills amb els teus companys!"
+					"title": "Activitat de concienciació",
+					"startHour": "16:00",
+					"endHour": "17:15",
+					"localization": "A6001",
+					"description": ""
 				},
 				{
 					"id": "16",
+					"title": "Karaoke!",
+					"startHour": "18:00",
+					"endHour": "20:00",
+					"localization": "Exterior de l'edifici A6001",
+					"description": "Desconnecta del codi amb una mica de música"
+				},
+				{
+					"id": "17",
 					"title": "Sopar",
 					"startHour": "21:00",
 					"endHour": "22:00",
@@ -147,7 +155,7 @@
 					"description": "A sopar!! 🍽 Toca pizza!!!!"
 				},
 				{
-					"id": "17",
+					"id": "18",
 					"title": "Fins demà! Tothom a casa!",
 					"startHour": "23:00"
 				}
@@ -159,12 +167,12 @@
 			"events":
 			[
 				{
-					"id": "18",
+					"id": "19",
 					"title": "Bon dia, Hackers!",
 					"startHour": "09:00"
 				},
 				{
-					"id": "19",
+					"id": "20",
 					"title": "Esmorzar",
 					"startHour": "09:00",
 					"endHour": "10:00",
@@ -172,12 +180,12 @@
 					"description": "Toca agafar força per un dia dur!! 🍽"
 				},
 				{
-					"id": "20",
+					"id": "21",
 					"title": "S'acaba el temps de hacking!!",
 					"startHour": "12:00"
 				},
 				{
-					"id": "21",
+					"id": "22",
 					"title": "Dinar",
 					"startHour": "12:00",
 					"endHour": "13:30",
@@ -185,15 +193,15 @@
 					"description": "A dinar!! 🍽"
 				},
 				{
-					"id": "22",
+					"id": "23",
 					"title": "Presentacions dels projectes",
 					"startHour": "12:45",
 					"endHour": "14:30",
-					"localization": "TBD",
+					"localization": "A6201 i A6202",
 					"description": "Hora de presentar el que heu construït durant el cap de setmana"
 				},
 				{
-					"id": "23",
+					"id": "24",
 					"title": "Cerimònia de clausura",
 					"startHour": "15:15",
 					"endHour": "16:30",
@@ -201,7 +209,7 @@
 					"description": "Es hora de conèixer els guanyadors i de despedir-nos..."
 				},
 				{
-					"id": "24",
+					"id": "25",
 					"title": "Fins a una altra!",
 					"startHour": "17:00"
 				}
