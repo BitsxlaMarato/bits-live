@@ -30,7 +30,7 @@
 					"id": "2",
 					"title": "Comença el temps de hacking",
 					"startHour": "19:00",
-					"localization": "Edifici A6 - Aules planta 1 i 2",
+					"localization": "Edifici A6 - Aules planta 1",
 					"description": "It's on! Comença el temps per crear projectes!!"
 				},
 				{
@@ -39,7 +39,7 @@
 					"startHour": "19:00",
 					"endHour": "19:30",
 					"localization": "Aula A6002",
-					"description": "No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
+					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
 				},
 				{
 					"id": "4",
@@ -47,7 +47,7 @@
 					"startHour": "19:30",
 					"endHour": "20:00",
 					"localization": "Aula A6001",
-					"description": "Tens dubtes amb Git i GitHub? Vols descobrir-ho perquè no saps de què parlem? Vine a la xerrada i resol tot els teus dubtes sobre com treballar en equip en un projecte de software!"
+					"description": "Tens dubtes amb Git i GitHub?\uD83D\uDC08\u200D⬛ Vols descobrir-ho perquè no saps de què parlem? Vine a la xerrada i resol tot els teus dubtes sobre com treballar en equip en un projecte de software!"
 				},
 				{
 					"id": "5",
@@ -63,7 +63,7 @@
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6001",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"description": "\uD83D\uDDE3️Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "7",
@@ -71,7 +71,7 @@
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6002",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"description": "\uD83D\uDDE3️Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "8",
@@ -79,7 +79,7 @@
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6001",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"description": "\uD83D\uDDE3️Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "9",
@@ -87,7 +87,7 @@
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6002",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"description": "\uD83D\uDDE3️Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
 				},
 				{
 					"id": "10",
@@ -120,7 +120,7 @@
 					"startHour": "10:00",
 					"endHour": "11:00",
 					"localization": "Exterior de l'edifici A5",
-					"description": "Prente un descans de la pantalla de la manera més saludable possible i disfruta jugant al mataconills amb els teus companys!"
+					"description": "⚽ Prente un descans de la pantalla de la manera més saludable possible i disfruta jugant al mataconills amb els teus companys!"
 				},
 				{
 					"id": "14",
@@ -136,15 +136,15 @@
 					"startHour": "16:00",
 					"endHour": "17:15",
 					"localization": "A6001",
-					"description": ""
+					"description": "❓"
 				},
 				{
 					"id": "16",
 					"title": "Karaoke!",
 					"startHour": "18:00",
 					"endHour": "20:00",
-					"localization": "Exterior de l'edifici A6001",
-					"description": "Desconnecta del codi amb una mica de música"
+					"localization": "Exterior de l'edifici A6",
+					"description": "\uD83C\uDFA4 \uD83C\uDFB5 Desconnecta del codi amb una mica de música"
 				},
 				{
 					"id": "17",
@@ -152,12 +152,13 @@
 					"startHour": "21:00",
 					"endHour": "22:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "A sopar!! 🍽 Toca pizza!!!!"
+					"description": "A sopar!! 🍽 Toca pizza!!!!\uD83C\uDF55"
 				},
 				{
 					"id": "18",
 					"title": "Fins demà! Tothom a casa!",
-					"startHour": "23:00"
+					"startHour": "23:00",
+					"description": "\uD83D\uDC4B\uD83C\uDFFC"
 				}
 			]
 		},
@@ -190,7 +191,7 @@
 					"startHour": "12:00",
 					"endHour": "13:30",
 					"localization": "Exterior de l'edifici A6",
-					"description": "A dinar!! 🍽"
+					"description": "A dinar!! 🍽 Toca canelons casolans!! A gaudir-los"
 				},
 				{
 					"id": "23",
@@ -211,7 +212,8 @@
 				{
 					"id": "25",
 					"title": "Fins a una altra!",
-					"startHour": "17:00"
+					"startHour": "17:00",
+					"description": "\uD83D\uDC4B\uD83C\uDFFC"
 				}
 			]
 		}

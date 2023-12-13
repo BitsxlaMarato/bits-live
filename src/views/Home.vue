@@ -36,7 +36,7 @@
           <h3 class="text-centered margin-bottom">Xarxes socials de Hackers@UPC</h3>
           <div class="buttons">
             <a class="fb" target="_blank" href="https://www.facebook.com/hackersupc"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-            <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fab fa-x-twitter" aria-hidden="true"></i></a>
             <a class="ig" target="_blank" href="https://instagram.com/hackersupc"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.youtube.com/c/HackersUPC"><i class="fab fa-youtube" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.twitch.tv/hackersupc"><i class="fab fa-twitch" aria-hidden="true"></i></a>
@@ -48,7 +48,7 @@
           <h3 class="text-centered margin-bottom">Xarxes socials de FIB</h3>
           <div class="buttons">
             <a class="fb" target="_blank" href="https://www.facebook.com/fib.upc"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-            <a class="tw" target="_blank" href="https://twitter.com/fib_upc"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a class="tw" target="_blank" href="https://twitter.com/fib_upc"><i class="fab fa-x-twitter" aria-hidden="true"></i></a>
             <a class="ig" target="_blank" href="https://www.instagram.com/fib.upc/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.youtube.com/user/mediafib"><i class="fab fa-youtube" aria-hidden="true"></i></a>
           </div>
