@@ -40,6 +40,10 @@
               La detecció precoç del sagnat menstrual abundant i el seu tractament són fonamentals per a la salut i el benestar de les dones. A més d'alleujar els símptomes, el diagnòstic adequat pot ajudar a abordar condicions subjacents i prevenir complicacions a llarg termini, cosa que té un impacte positiu en la qualitat de vida i la salut en general. Actualment tenim mètodes directes per poder quantificar la quantitat de sagnat (per exemple la copa menstrual) però moltes vegades hem de recórrer a la impressió subjectiva de la dones, que moltes vegades normalitzen el seu sagnat. Per tal de poder avaluar la quantitat de sagnat disposem de taules pictòriques validades com el PBAC Score (Pictorial Blood Assessment Chart) és una escala on la pacient puntua tots els productes sanitaris (compreses, tampons) que empra al llarg del mes en funció de com estan tacats. La puntuació total al llarg d’un cicle està relacionada amb la quantitat de sagnat menstrual i es diagnostica de SMA quan aquesta puntuació és superior a 100. Entre les limitacions que tenim per aquest test és que requereix una mica de temps perquè la pacient el completi i que moltes vegades no es valora adequadament la quantitat de sang que presenten els productes sanitaris tacats.
             </p>
           </div>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+          </p>
           <br>
           <div class="margin-bottom text-centered">
             <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
