@@ -43,7 +43,17 @@
           </div>
         </div>
       </div>
-      TODO: Activitat Dani-->
+      TODO: Descripció Activitat entre <p> </p>-->
+      <div class="panel large">
+        <h1 style="text-transform: uppercase;">Activitat de concienciació</h1>
+        <div>
+          <div class="margin-bottom text-centered">
+            <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
+            <span>A6001</span>
+          </div>
+          <p></p>
+        </div>
+      </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Karaoke!</h1>
         <div>
