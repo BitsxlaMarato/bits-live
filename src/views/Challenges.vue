@@ -40,6 +40,7 @@
               La detecció precoç del sagnat menstrual abundant i el seu tractament són fonamentals per a la salut i el benestar de les dones. A més d'alleujar els símptomes, el diagnòstic adequat pot ajudar a abordar condicions subjacents i prevenir complicacions a llarg termini, cosa que té un impacte positiu en la qualitat de vida i la salut en general. Actualment tenim mètodes directes per poder quantificar la quantitat de sagnat (per exemple la copa menstrual) però moltes vegades hem de recórrer a la impressió subjectiva de la dones, que moltes vegades normalitzen el seu sagnat. Per tal de poder avaluar la quantitat de sagnat disposem de taules pictòriques validades com el PBAC Score (Pictorial Blood Assessment Chart) és una escala on la pacient puntua tots els productes sanitaris (compreses, tampons) que empra al llarg del mes en funció de com estan tacats. La puntuació total al llarg d’un cicle està relacionada amb la quantitat de sagnat menstrual i es diagnostica de SMA quan aquesta puntuació és superior a 100. Entre les limitacions que tenim per aquest test és que requereix una mica de temps perquè la pacient el completi i que moltes vegades no es valora adequadament la quantitat de sang que presenten els productes sanitaris tacats.
             </p>
           </div>
+          <br>
           <p>
             <strong>Premi: </strong>
             El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
@@ -72,6 +73,11 @@
               L'RCTG és una eina de control del benestar fetal que no ha variat des de la seva invenció a la dècada dels anys 60. Diverses societats científiques han intentat establir uns criteris homogenis per la interpretació i actuació però no existeix un consens clar en molts aspectes. A més, la gran variabilitat intra i interobservador fa que en determinades situacions similars, la conducta pugui esdevenir diferent i afectar als resultats perinatals. Per tant, existeix una necessitat no coberta en la interpretació objectiva de la FCF.
             </p>
           </div>
+          <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+          </p>
           <br>
           <div class="margin-bottom text-centered">
             <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
@@ -106,6 +112,11 @@
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
             <b>Proposa:</b> <span>Hospital del Mar Research Institute</span>
           </div>
@@ -135,6 +146,11 @@
               L’anàlisi de les comunitats microbianes i la modulació dels seus ecosistemes com a conseqüència de les seves activitats ens ha de permetre perfilar conjunts de microbis que pertanyen al mateix grup taxonòmic o que comparteixen una mateixa “condició biològica” (metabolòmica, secretòmica...). La idea és que la plataforma pugui oferir de manera ràpida i visual la identificació de “connexions òptimes/calentes” entre organismes i/o condicions biològiques, i que ajudin a contextualitzar les accions de cada un dels microorganismes presents a la mostra. I a partir d’aquest coneixement, poder aportar solucions que ajudin a modular el microbioma en els pacients infèrtils que presentin una relació de microorganismes associada a infertilitat.
             </p>
           </div>
+          <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+          </p>
           <br>
           <div class="margin-bottom text-centered">
             <b>Proposen i col·laboren:</b> <span>Banc de sang i teixits</span> <span>Microomics</span> <span>Departament de Biologia Cel·lular, Fisiologia i Imnulogia, Facultat de Medicina, UAB</span>
