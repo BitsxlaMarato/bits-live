@@ -22,7 +22,7 @@
 					"id": "1",
 					"title": "Cerimònia d'obertura",
 					"startHour": "17:45",
-					"endHour": "18:45",
+					"endHour": "19:00",
 					"localization": "Sala d'actes del Vèrtex",
 					"description": "Aprèn una mica més dels reptes i del funcionament de la hackathon"
 				},
@@ -190,7 +190,7 @@
 					"id": "22",
 					"title": "Dinar",
 					"startHour": "12:00",
-					"endHour": "13:30",
+					"endHour": "13:00",
 					"localization": "Exterior de l'edifici A6",
 					"description": "A dinar!! 🍽 Toca canelons casolans!! A gaudir-los"
 				},
