@@ -42,16 +42,20 @@
             </div>
           </div>
         </div>
-      </div>
-      TODO: Descripció Activitat entre <p> </p>-->
+      </div>-->
       <div class="panel large">
-        <h1 style="text-transform: uppercase;">Activitat de concienciació</h1>
+        <h1 style="text-transform: uppercase;">Més enllà dels plàtans</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>A6001</span>
           </div>
-          <p></p>
+          <p>
+            Malauradament l' educació sexual de molts de nosaltres,  s'ha basat en una xerrada breu a l'escola  acabant posant un condó a un platan o similar. I això en els millors casos 😔 . Silencis, tabús, mites..... la sexualitat i el coneixement de la nostra pròpia salut sexual i reproductiva n'està ple. Vine i posa a prova els teus coneixements.  Segur que acabaràs entenen la gran importància de gaudir d'una bona salut sexual.
+          </p>
+          <p>
+            <strong>Activitat dirigida per: </strong>Georgina Picas Bernadell, cap de l'ASSIR Hospital del Mar.
+          </p>
         </div>
       </div>
       <div class="panel">
