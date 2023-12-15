@@ -112,9 +112,9 @@
             </p>
           </div>
           <br>
-          <h4>Premi: </h4>
           <p>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar els criteris dels premis a l'apartat de <strong>Judging</strong> de les <strong>Regles</strong>.
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
