@@ -43,7 +43,7 @@
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
@@ -76,7 +76,7 @@
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
@@ -149,7 +149,7 @@
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip!
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
