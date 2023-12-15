@@ -50,7 +50,7 @@
             <h2>Recorda!</h2>
           </div>
           <p class="margin-bottom">
-            Per fer aquest esdeveniment una experiència enriquidora, intenta coses diferents, ensenya a altres i fes amics.<br /><br />
+            Per fer d'aquest esdeveniment una experiència enriquidora, intenta coses diferents, ensenya a altres i fes amics.<br /><br />
 
             <i>Happy Hacking de l'equip de bitsxLaMarató!</i>
           </p>
