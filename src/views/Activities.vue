@@ -76,7 +76,7 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>Edifici exterior del A5</span>
           </div>
-          <p>Prente un descans de la pantalla de la manera més saludable possible i disfruta jugant al mataconills amb els teus companys!</p>
+          <p>Prente un descans de la pantalla de la manera més saludable possible i gaudeix jugant al mataconills amb els teus companys!</p>
         </div>
       </div>
     </div>
