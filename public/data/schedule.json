@@ -208,13 +208,13 @@
 					"startHour": "15:15",
 					"endHour": "16:30",
 					"localization": "Sala d'actes del Vèrtex",
-					"description": "Es hora de conèixer els guanyadors i de despedir-nos..."
+					"description": "És hora de conèixer els guanyadors i de despedir-nos..."
 				},
 				{
 					"id": "25",
 					"title": "Fins a una altra! \uD83D\uDC4B\uD83C\uDFFC",
 					"startHour": "17:00",
-					"description": "\uD83D\uDC4B\uD83C\uDFFC Moltes gracies i esperem veure-us l'any que ve!! \uD83E\uDEC2"
+					"description": "\uD83D\uDC4B\uD83C\uDFFC Moltes gràcies i esperem veure-us l'any que ve!! \uD83E\uDEC2"
 				}
 			]
 		}
