@@ -1,7 +1,7 @@
 <template>
   <div id="schedule" class="under-header padding-bottom">
     <div class="container">
-      <div class="panel large">
+      <!--<div class="panel large">
         <h1>Accés a Marenostrum 4</h1>
         <p>
           Si per poder desenvolupar millor el teu repte necessites accés a MareNostrum4 durant aquest cap de setmana, el pots demanar contactant a qualsevol organizer al canal d' <span>#ajuda</span> de l'Slack i t'ajudaran a aconseguir accés.<br><br>
@@ -17,120 +17,143 @@
             <a class="li" target="_blank" href="https://www.linkedin.com/company/barcelona-supercomputing-center"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
           </div>
         </div>
-      </div>
+      </div>-->
       <div class="panel large">
-        <h1>El ratolí com a eina per lluitar contra l'assassí d'Albert Einstein</h1>
+        <h1>Quanta sang et pren Dràcula cada mes? VIGILEM-LO!</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>albert-einstein</span>
+          <span>dràcula</span>
         </div>
         <div>
           <p class="margin-bottom">
-            Albert Einstein va morir mentre dormia el 15 d'abril de 1955. L'autòpsia va revelar que la causa de la seva mort va ser la ruptura d'un aneurisma d'aorta abdominal (AAA). Albert Einstein era coneixedor de la seva malaltia des de feia més de 10 anys; no obstant això, ni llavors ni ara, s'ha pogut disposar de medicació per a frenar-la. L'experimentació en models animals, fonamentalment en ratolí, ens ha permès identificar noves possibles estratègies de tractament d'aquests pacients, que viuen sota l'espasa de Dàmocles d'una eventual ruptura de l'aorta, la qual és mortal en bona part dels casos. Si bé s'han dissenyat sistemes de modelatge tridimensional de l'AAA humà per tal de simular la mecànica de l'aneurisma i preveure la seva ruptura, cap d'elles ha estat reeixida. En canvi, aquesta eina aplicada en animals d'experimentació seria cabdal per impulsar una investigació més objectiva que faciliti el desenvolupament de noves teràpies en aquesta malaltia.
+              El comte Dràcula és el protagonista de la novel·la d'horror gòtic de l'escriptor irlandès Bram Stoker, del 1897. Una de les seves característiques mes conegudes és que s’alimenta de la sang de les seves víctimes, deixant-les amb poca energia o, fins i tot, convertint-les en vampir. Les dones en edat fèrtil tenim el nostre propi “Dràcula”, la menstruació, que origina cada mes un sagnat genital fruit de la descamació de l’endometri si no s’ha aconseguit la gestació en aquell cicle ovulatori. Els criteris de normalitat del sagnat menstrual són que aquest ha de ser de menys de 80 ml per cicle menstrual. Qualsevol increment d’aquesta quantitat és considera sagnat menstrual abundant. Hi ha certes malalties que poden ocasionar que la quantitat de la menstruació sigui major a la esperable i ocasionar dèficits de ferro i/o anèmia, al mateix temps que una pèrdua de la qualitat de vida. Però com podem quantificar la pèrdua hemàtica que cada més genera la menstruació? Com podem saber si és normal o augmentada?
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              Per tal de fer un seguiment del diàmetre aòrtic en els ratolins, actualment es disposa de sistemes d'ultrasonografia. No obstant, les imatges que se'n deriven no sempre ens permeten localitzar de manera objectiva el punt de màxima dilatació de l'aorta, ni saber quins aneurismes tenen una major gravetat. Per aquest motiu, l'objectiu és dissenyar una eina que ens permeti mesurar el diàmetre aòrtic en el ratolí model de la malaltia, d'una manera fiable i objectiva, així com modelar una estructura tridimensional a partir d'aquestes imatges per tal d'identificar aquells aneurismes amb major risc.
+              L’objectiu d’aquest repte és la creació d’una eina mòbil que permeti a les dones completar digitalment aquest test (PBAC Score) al llarg del seu cicle menstrual i que en faci un càlcul de la seva puntuació. Per evitar errades a la introducció del registre es podria valorar que la eina fes un reconeixement d’imatge del producte sanitari (tampó o compresa), de com està tacat i que assigni directament la puntuació. Però estem obert sa qualsevol solució!.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              L'AAA és una malaltia poc coneguda però molt freqüent. S'estima que fins a un 8% dels homes de més de 65 anys pateixen AAA. La prevalença d'aquesta malaltia augmenta amb l'edat i s'espera que la seva incidència augmenti en les pròximes dècades degut a l'envelliment de la població. En l'actualitat l'AAA constitueix una de les 10 primeres causes de mort entre els homes d'edat avançada. Es tracta d'una malaltia degenerativa, caracteritzada per la degradació irreversible de la paret de l'aorta, el principal vas que transporta la sang des del cor fins tota la resta d'òrgans. Aquesta veritable desintegració de la paret vascular promou la dilatació progressiva de l'aorta, que va incrementant el seu diàmetre com si es tractés d'un globus. Malauradament, la degeneració de l'aorta pot desembocar en el trencament de la paret del vas, produint una hemorràgia interna massiva, fet que constitueix una emergència mèdica i provoca la mort en un alt percentatge dels pacients. En l'actualitat no es disposa de fàrmacs que limitin el creixement de l’AAA ni la seva ruptura i l'única opció terapèutica és la cirurgia d'aquells aneurismes amb un alt risc de ruptura, un procediment costós pel sistema sanitari i d'alt risc. L'absència de tractaments eficaços en aquesta malaltia porta al pacient amb AAA a viure una situació angoixosa davant el risc de patir una ruptura aòrtica impredictible.  El desenvolupament de noves estratègies diagnòstiques i terapèutiques en aquesta malaltia és un repte que requereix d'estudis en models animals en què identificar i assajar nous possibles tractaments.
+              La detecció precoç del sagnat menstrual abundant i el seu tractament són fonamentals per a la salut i el benestar de les dones. A més d'alleujar els símptomes, el diagnòstic adequat pot ajudar a abordar condicions subjacents i prevenir complicacions a llarg termini, cosa que té un impacte positiu en la qualitat de vida i la salut en general. Actualment tenim mètodes directes per poder quantificar la quantitat de sagnat (per exemple la copa menstrual) però moltes vegades hem de recórrer a la impressió subjectiva de la dones, que moltes vegades normalitzen el seu sagnat. Per tal de poder avaluar la quantitat de sagnat disposem de taules pictòriques validades com el PBAC Score (Pictorial Blood Assessment Chart) és una escala on la pacient puntua tots els productes sanitaris (compreses, tampons) que empra al llarg del mes en funció de com estan tacats. La puntuació total al llarg d’un cicle està relacionada amb la quantitat de sagnat menstrual i es diagnostica de SMA quan aquesta puntuació és superior a 100. Entre les limitacions que tenim per aquest test és que requereix una mica de temps perquè la pacient el completi i que moltes vegades no es valora adequadament la quantitat de sang que presenten els productes sanitaris tacats.
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
-            <b>Proposen i col·laboren:</b> <span>CIBER</span> <span>CSIC</span> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span> <span>Banc de Sang i Teixits</span>
+            <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
           </div>
         </div>
       </div>
       <div class="panel large">
-        <h1>Tenir un cor que no et cap al pit no sempre és bo... el tens?!</h1>
+        <h1>Interpretem millor les línies de la vida, amb IA?</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>cor-al-pit</span>
+          <span>línies-de-la-vida</span>
         </div>
         <div>
           <p class="margin-bottom">
-            La insuficiència cardíaca és la nova pandèmia del segle XXI. En aquesta malaltia el cor no bombeja adequadament la sang, situació que impacta molt negativament en la qualitat de vida d'aquests pacients. La insuficiència cardíaca, que arriba a afectar 26 milions de persones a nivell mundial, pot posar en perill la vida de les persones que la pateixen. En els casos més greus l'única solució per aquests pacients és el trasplantament cardíac. Malgrat els avenços significatius en el tractament i la prevenció, la prevalença d'aquesta malaltia va en augment, la mortalitat i morbiditat segueixen sent elevades, i la qualitat de vida dels pacients molt deficient. És, per tant, imprescindible identificar noves estratègies de tractament en aquests pacients i això requereix estudis en animals d'experimentació amb tecnologia puntera.
+            Després del diagnòstic d’un embaràs, creixen les il.lusions durant 9 mesos esperant el moment de rebre al nou membre de la família. Però el moment del part sempre representa un moment crític en el desenllaç favorable de l’embaràs. L’estímul de les contraccions del part, possibles infeccions o altre complicacions pot fer que el nadó experimenti una pèrdua de benestar que pugui condicionar la seva salut futura o, en casos molt severs, la seva mort. Per tal de detectar aquestes possibles alteracions, durant el treball de part es realitza un registre cardiotocogràfic, que és una valoració continuada de la freqüència cardíaca fetal i de les contraccions uterines maternes. Alteracions en el patró d’aquest RCTG es relacionen amb pèrdues de benestar fetal o patiments fetals i els professionals poden actuar, ja sigui administrant fàrmacs per millorar aquest estat o treure el nounat de forma ràpida mitjançant instrumentació (p.e fòrceps o ventosa) o cesàrea. La gran limitació és que, tot i que hi ha patrons molt clars, la interpretació final del RCTG és subjectiva, presenta molta variabilitat i no ens pot predir totes les situacions.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              L'ecografia cardíaca és l'eina utilitzada per diagnosticar la hipertròfia i la disfunció cardíaques. En aquest repte busquem disposar d'una aplicació que ens permeti analitzar els paràmetres ecocardiogràfics referents a la morfologia i la funció del cor de manera objectiva i automatitzada i que ens alerti quan es detecti la presència d'anomalies  en algun dels paràmetres habituals. Et veus amb cor de fer-ho? Et necessitem!
+              El repte tecnològic consisteix en elaborar un eina digital que ens permeti el reconeixement de patrons en el RCTG per avaluar de forma objectiva l’estat fetal i que, al mateix temps, sigui capaç de trobar patrons específics que es puguin relacionar amb els diferents resultats perinatals.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              El funcionament correcte del cor és de vital importància, ja que s’encarrega de distribuir la sang a la resta d’òrgans. La hipertensió, l'infart de miocardi i les malalties valvulars entre altres, provoquen una resposta adaptativa del cor que modifica la seva morfologia, remodelant el gruix de les seves parets i disminuint el volum de les seves cavitats. Així, l’habilitat de bombejar correctament la sang a l’organisme es veu reduïda i s’esdevé la insuficiència cardíaca. Aquesta patologia suposa un greu problema de salut en la societat occidental amb un impacte econòmic molt important. Es preveu que tan sols als Estats Units aquesta malaltia pugui arribar a afectar a 8 milions de persones l'any 2030.  Els tractaments actuals són poc efectius per prevenir o frenar el desenvolupament de la malaltia, i fonamentalment van dirigits a millorar la qualitat de vida. Per això, és de gran importància identificar noves dianes terapèutiques en aquesta malaltia i per això és necessari realitzar estudis en models animals.
+              L'RCTG és una eina de control del benestar fetal que no ha variat des de la seva invenció a la dècada dels anys 60. Diverses societats científiques han intentat establir uns criteris homogenis per la interpretació i actuació però no existeix un consens clar en molts aspectes. A més, la gran variabilitat intra i interobservador fa que en determinades situacions similars, la conducta pugui esdevenir diferent i afectar als resultats perinatals. Per tant, existeix una necessitat no coberta en la interpretació objectiva de la FCF.
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
-            <b>Proposen i col·laboren:</b> <span>CIBER</span> <span>CSIC</span> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span> <span>Banc de Sang i Teixits</span>
+            <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
           </div>
         </div>
       </div>
       <div class="panel large">
-        <h1>Alerta Trombosi: perquè la vida corre per les teves venes</h1>
+        <h1>SexEd+: Codificant la sexualitat del futur</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>alerta-trombo</span>
+          <span>sexed-plus</span>
         </div>
         <div>
           <p class="margin-bottom">
-            Crear una solució que permeti a la població en general identificar simptomatologia prèvia a l'ocurrència d'esdeveniment trombòtic i, que expliqui i conscienciï lúdicament sobre la trombosi. Per exemple, es podria crear un videojoc educatiu que permeti entendre el procés de trombosi (amb trombòcits com a protagonistes!!) i que doni com a resultat un procés d'enteniment i prevenció als seus jugadors. La idea seria publicar el joc en una plataforma de codi obert, però permetre a l'Associació ActivaTT posar-ho en una AppStore perquè els usuaris li ho descarreguessin a un preu simbòlic-solidari (e.g. 0.99 €) i que els fons es dediquin a l'Associació.
+            La sexualitat entre la població jove ha esdevingut un tema crític que necessita ser abordat amb urgència. Actualment, l'allau d’informació no contrastada, la influència de la pornografia o la inadequada educació sexual pot conduir a una sèrie de problemes que afecten el benestar dels joves. En moltes comunitats, hi ha una manca d'informació accessible i inclusiva sobre temes com el consentiment, les pràctiques sexuals segures, la diversitat sexual i els aspectes emocionals de les relacions. Aquest buit en l'educació sexual pot resultar en decisions inadequades, relacions conflictives, i fins i tot problemes de salut física i mental.
+
+            Amb l'auge de la tecnologia i l’accés a la pornografia, els joves es troben immersos en un món digital que pot influir significativament en les seves percepcions i comportaments en matèria de sexualitat. Això presenta la necessitat crítica d'innovar en les maneres en què es proporciona informació sexual als joves, aprofitant les eines tecnològiques que formen part integrant de les seves vides diàries.
+
+            A través d'aquest repte, es pretén no només prevenir problemes de salut sexual sinó també promoure relacions respectuoses, consciència de la diversitat sexual i el benestar emocional dels joves en l'era digital.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              Un videojoc/app que integrés aspectes de la fisiologia de la trombosi, què és, que símptomes té, com prevenir-la podria tenir un alt impacte en la conscienciació de la importància d'aquesta patologia i en la prevenció. Com fer-ho? Està totalment obert a la vostra creativitat, des de Xartec Salut i l'associació ActivaTT, us poden donar informació de les idees i aspectes que, o hauria de presentar el joc, app que penseu que pot ajudar. Heu de pensar en una forma lúdica i possiblement educativa que mostri fàcilment els possibles símptomes de trombosi.
+              L'objectiu d'aquest desafiament és proporcionar una solució personalitzable i centrada en l'usuari que abordi l'espectre de problemes de salut sexual entre la població jove. Ja sigui a través d'una aplicació, un chatbot o un lloc web, la solució ha d'habilitar els usuaris per a navegar les complexitats de la sexualitat, fomentant la presa de decisions informades, el benestar emocional i dinàmiques de relacions positives. Mitjançant l'adopció de diverses opcions tecnològiques, els participants poden contribuir a superar barreres, fer que l'educació sexual sigui accessible, dinàmica i engrescadora, així com promoure un discurs més saludable i obert sobre la sexualitat.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              La trombosi venosa profunda (TVP) és una afecció que ocorre quan es forma un coàgul de sang en una vena profunda. Aquests coàguls en general es formen en la part inferior de les cames, les cuixes o la pelvis, però també poden aparèixer al braç. És important saber el que és la TVP perquè pot afectar qualsevol persona i causar-li una malaltia greu, una discapacitat i, en alguns casos, la mort. La bona notícia és que es pot prevenir.<br>
-              La complicació més greu de la TVP ocorre quan una part del coàgul es desprèn i viatja pel torrent sanguini fins als pulmons, causant una embòlia pulmonar (EP). Aquest coàgul pot impedir que la sang arribi als pulmons i és mortal.<br>
-              Les xifres associades a la trombosi són alarmants, ja que afecta anualment 1-2 persones per 1.000 habitants, amb una mortalitat del 12,6% dels pacients en el primer any. Dels supervivents, un 25-50% desenvolupa molèsties cròniques de les cames, a causa del mal que ocasiona el coàgul en les vàlvules de la vena, que redueixen severament la mobilitat (síndrome posttrombòtica). El risc de trombosi augmenta considerablement amb l'edat, arribant a l'1 per 100 individus/any en persones majors de 65 anys. La trombosi és la principal causa prevenible de mortalitat en pacients hospitalitzats per qualsevol altra patologia i la primera causa de mort en pacients oncològics tractats amb quimioteràpia i en dones embarassades.<br>
-              La trombosi té tractament, la teràpia anticoagulant, però dels pacients que han sofert una trombosi, fins al 6% per any sofriran un nou esdeveniment trombòtic (trombosi recurrent) una vegada finalitzat el tractament.<br>
-              Les últimes dades revelen que només a Europa es produeixen al voltant d'1,5 milions de trombosis a l'any, produint més de 543.000 morts (el que suposa 1 mort per trombosi cada minut). La trombosi genera una despesa directa, només a Europa, estimat en 3 mil milions d'euros a l'any.
+              La sexualitat entre joves abasta qüestions complexes que afecten significativament el seu benestar general. Una educació sexual inadequada sovint els deixa exposats a diversos reptes, com pot ser el risc de contraure malalties de transmissió sexual (ITS). A més, les discussions limitades sobre orientacions sexuals diverses i identitats de gènere perpetuen l'estigmatització i la discriminació, especialment contra les persones de la comunitat LGBTQ+. L'accés insuficient als serveis de salut reproductiva agreuja la situació, provocant embarassos no desitjats i limitant les opcions per aquells que busquen una atenció reproductiva essencial.
+              L'era digital introdueix reptes addicionals, com els riscos associats al comportament sexual en línia, la influència de la pornografia i la manca de cobertura en els programes d'educació sexual. La pornografia pot distorsionar les percepcions sobre les relacions sexuals i la intimitat, influint en les expectatives i les actituds dels joves. La pressió dels iguals i les expectatives socials intensifiquen encara més els reptes, pressionant els joves per conformar-se amb estàndards normatius i potencialment portant a comportaments arriscats, dificultats de comunicació i angoixa emocional. Les disparitats econòmiques també juguen un paper, afectant l'accés als serveis de salut sexual, agreujant les desigualtats i limitant el suport per als joves que enfronten crisis com embarassos no desitjats. Un enfocament integral de l'educació sexual és crucial, abastant no només els aspectes biològics sinó també les dimensions socials, emocionals i relacionals, per capacitar els joves a gestionar la seva salut sexual amb coneixement, confiança i respecte per les experiències i identitats diverses.
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
-            <b>Proposen i col·laboren:</b> <span>CREB</span> <span>Xartec Salut</span> <span>Associació ActivaTT</span>
+            <b>Proposa:</b> <span>Hospital del Mar Research Institute</span>
           </div>
         </div>
       </div>
       <div class="panel large">
-        <h1>Computació entre cloud i edge per a models de risc de Ictus basats en senyals biomèdics de dispositius portàtils</h1>
+        <h1>La reproducció no és només cosa de dos: hackejant els secrets del microbioma seminal</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>ictus</span>
+          <span>microbioma-seminal</span>
         </div>
         <div>
           <p class="margin-bottom">
-            El desafiament s'enfoca a desenvolupar una aplicació per a telèfons mòbils que sigui capaç de capturar i processar senyals biomèdics des d'un dispositiu portàtil. Aquesta informació s'usa per a alimentar models d'AI/ML per a l'avaluació del risc d'accident cerebrovascular que resideixen en un clúster amb capacitat d'inferència sota demanda. El resultat esperat és la simulació d'un escenari realista en el qual es produeixen prediccions de risc d'accident cerebrovascular basades en dades de sensors en el continu entre edge i cloud.
+            Benvinguts al meravellós món del microbioma seminal! Un ecosistema de microorganismes dinàmic i complex que no és simplement un espectador passiu, sinó que té un paper fonamental en la salut humana i també en la salut reproductiva. Localitzat al plasma seminal, aquesta comunitat complexa de microorganismes té el potencial d'influir en la fertilitat, els resultats reproductius i el benestar general.
+
+            Gràcies a investigacions recents, sabem que els diferents membres d’aquesta comunitat coexisteixen en un delicat equilibri, i que alteracions d’aquest equilibri podrien ser causes subjacents d’infertilitat masculina. No obstant, la investigació sobre el microbioma seminal és encara un camp en evolució, i les funcions específiques dels diferents microorganismes que el composen i les interaccions entre elles encara no estan completament dilucidades.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              A mesura que els dispositius es tornen més petits i portàtils, el poder del núvol ha d'anar acompanyat d'estratègies per a augmentar el rendiment i millorar la privacitat en l'edge. Diverses startups en el mercat estan avançant en intel·ligència distribuïda amb el disseny de sistemes IoT per a la cura de la salut. En particular, els dispositius portàtils i els sensors biomètrics representen les noves fronteres de la computació distribuïda amb integració d'IA i aprenentatge automàtic que brinden retroalimentació en temps real que permet la florida actual del mercat de tecnologies de self-monitoring (rellotges intel·ligents i altres perifèrics, aplicacions de programari mòbil, etc.).
+              El repte que presentem té dues cares. La primera, a partir de dades clíniques i de microbiota seminal de pacients infèrtils i controls, esbrinar si existeixen perfils diferencials de microorganismes associats amb problemes reproductius.  L'objectiu és fer servir o desenvolupar eines bioinformàtiques basades tant en anàlisi estadística avançada com en algorismes d’aprenentatge automàtic que permetin identificar correlacions entre les abundàncies bacterianes seminals i la fertilitat masculina. La segona es dirigeix a la creació d’una eina de cerca bioinformàtica que aconsegueixi reunir en una única plataforma la informació biològica (metabolòmica, secretòmica, genòmica) coneguda dels microorganismes que composen el microbioma seminal, amb l’objectiu final d’explorar de manera interactiva les relacions que s’estableixen entre les molècules derivades del metabolisme d’aquests microorganismes. A partir de l’anàlisi d’aquestes relacions, podrem entendre millor l’acció del microbioma sobre la salut de l’espermatozoide.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              L'accident cerebrovascular o ictus és una afecció neurovascular deguda a una lesió focal aguda en el sistema nerviós central per una causa vascular. És una malaltia comuna, amb una incidència creixent en l'envelliment, que afecta una de cada quatre persones al llarg de la seva vida. És la segona causa principal de mort i la tercera causa principal de discapacitat en adults a tot el món. S'han desenvolupat noves estratègies per a prevenir i monitorar l'ictus o la seva recurrència, de manera contínua i no invasiva, concretament l'ús de dispositius portàtils i mòbils intel·ligents.
+              L’anàlisi de les comunitats microbianes i la modulació dels seus ecosistemes com a conseqüència de les seves activitats ens ha de permetre perfilar conjunts de microbis que pertanyen al mateix grup taxonòmic o que comparteixen una mateixa “condició biològica” (metabolòmica, secretòmica...). La idea és que la plataforma pugui oferir de manera ràpida i visual la identificació de “connexions òptimes/calentes” entre organismes i/o condicions biològiques, i que ajudin a contextualitzar les accions de cada un dels microorganismes presents a la mostra. I a partir d’aquest coneixement, poder aportar solucions que ajudin a modular el microbioma en els pacients infèrtils que presentin una relació de microorganismes associada a infertilitat.
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
-            <b>Proposen i col·laboren:</b> <span>BSC-CNS</span> <span>AI Sprint</span>
+            <b>Proposen i col·laboren:</b> <span>Banc de sang i teixits</span> <span>Microomics</span> <span>Departament de Biologia Cel·lular, Fisiologia i Imnulogia, Facultat de Medicina, UAB</span>
           </div>
         </div>
       </div>

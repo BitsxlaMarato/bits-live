@@ -20,7 +20,7 @@
           </div>
           <div class="margin-bottom">
             <ol>
-              <li>No hi ha nombre mínim de participants per equip. Encara que nosaltres recomanem ser 4, si sou més el màxim és 5.</li><br/>
+              <li>No hi ha nombre mínim de participants per equip, però si hi ha un nombre màxim, 4.</li><br/>
               <li>No cal dir que els equips poden demanar en tot moment ajuda als organitzadors, voluntaris, patrocinadors, mentors i fins i tot altres equips.</li><br/>
               <li>El desenvolupament del projecte pot començar abans de la hackató.</li><br/>
               <li>Els equips poden utilitzar una idea d'abans de l'esdeveniment sempre que pugui ser part d'un dels reptes plantejats.</li><br/>
@@ -38,7 +38,7 @@
           </div>
           <p class="margin-bottom">
             Quan el temps de programació s'ha acabat, els equips han de presentar el seu projecte al lloc assignat.<br/><br/>
-            Us demanem que presenteu en forma de demo del que heu creat i que compartiu els coneixements adquirits, no està permès presentar un PowerPoint sense cap demo real.<br/><br/>
+            Us demanem que presenteu en forma de demo del que heu creat i que compartiu els coneixements adquirits, no està permès presentar un PowerPoint, Figma, Canva o similar sense cap demo real.<br/><br/>
             T'animem a penjar a Devpost el projecte que has fet encara que no hagis pogut acabar. Està bé si no has aconseguit el que volies, és comú a una hackató. La demo és una oportunitat d'ensenyar el que has après i el que has intentat crear, això és la màgia de les hackatons. Si no hi ha res que ens puguis ensenyar, també pots fer una presentació del que has intentat i que has après. També escolta el que els altres han après sempre és interessant i motivacional.<br/><br/>
             Només seràs apte a premi si presentes el projecte. Els premis s'avaluaran seguint el criteri de judging (el pots veure al final d'aquesta pàgina).
           </p>
@@ -50,7 +50,7 @@
             <h2>Recorda!</h2>
           </div>
           <p class="margin-bottom">
-            Per fer aquest esdeveniment una experiència enriquidora, intenta coses diferents, ensenya a altres i fes amics.<br /><br />
+            Per fer d'aquest esdeveniment una experiència enriquidora, intenta coses diferents, ensenya a altres i fes amics.<br /><br />
 
             <i>Happy Hacking de l'equip de bitsxLaMarató!</i>
           </p>

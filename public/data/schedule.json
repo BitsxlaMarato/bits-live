@@ -2,26 +2,26 @@
 	"version": 2,
 	"message": "",
 	"baseTimeOffset":"-120",
-	"countdownStart":"16/12/2022 19:00",
+	"countdownStart":"15/12/2023 19:00",
 	"days":
 	[
 		{
 			"name": "Divendres",
-			"date":"16/12/2022",
+			"date":"15/12/2023",
 			"events":
 			[
 				{
 					"id": "0",
 					"title": "Registre",
 					"startHour": "17:00",
-					"endHour": "18:00",
+					"endHour": "17:45",
 					"localization": "Entrada de la sala d'actes de l'edifici Vèrtex",
 					"description": "Vine amb un carnet amb foto per completar el registre i poder gaudir de l'esdeveniment"
 				},
 				{
 					"id": "1",
 					"title": "Cerimònia d'obertura",
-					"startHour": "18:00",
+					"startHour": "17:45",
 					"endHour": "19:00",
 					"localization": "Sala d'actes del Vèrtex",
 					"description": "Aprèn una mica més dels reptes i del funcionament de la hackathon"
@@ -30,133 +30,151 @@
 					"id": "2",
 					"title": "Comença el temps de hacking",
 					"startHour": "19:00",
-					"localization": "Edifici A6 - Aules planta 1 i 2",
+					"localization": "Edifici A6 - Aules planta 1",
 					"description": "It's on! Comença el temps per crear projectes!!"
 				},
 				{
 					"id": "3",
 					"title": "Team Building",
-					"startHour": "19:30",
-					"endHour": "20:00",
-					"localization": "Aula A6001",
-					"description": "No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
+					"startHour": "19:00",
+					"endHour": "19:30",
+					"localization": "Aula A6002",
+					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
 				},
 				{
 					"id": "4",
+					"title": "Xerrada Git",
+					"startHour": "19:30",
+					"endHour": "20:00",
+					"localization": "Aula A6001",
+					"description": "\uD83D\uDC08\u200D Tens dubtes amb Git i GitHub? Vols descobrir perquè no saps de què parlem? Vine a la xerrada i resol tot els teus dubtes sobre com treballar en equip en un projecte de software!"
+				},
+				{
+					"id": "5",
 					"title": "Sopar",
 					"startHour": "20:00",
 					"endHour": "21:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "Hora de sopar!! 🍽"
-				},
-				{
-					"id": "5",
-					"title": "Xerrada repte l'assassí de l'Albert Einstein",
-					"startHour": "21:00",
-					"endHour": "21:30",
-					"localization": "Aula A6001",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"description": "Hora de sopar!! 🍽 Gaudeix dels entrepans del bar de la FIB!"
 				},
 				{
 					"id": "6",
-					"title": "Xerrada repte alerta trombosi",
+					"title": "Xerrada repte Dràcula",
 					"startHour": "21:00",
 					"endHour": "21:30",
-					"localization": "Aula A5002",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"localization": "Aula A6001",
+					"description": "\uD83D\uDDE3️ Si participes en el repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
-					"id": "6",
-					"title": "Xerrada repte un cor que no et cap al pit",
-					"startHour": "21:30",
-					"endHour": "22:00",
-					"localization": "Aula A6001",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"id": "7",
+					"title": "Xerrada repte SedEx+",
+					"startHour": "21:00",
+					"endHour": "21:30",
+					"localization": "Aula A6002",
+					"description": "\uD83D\uDDE3️ Si participes en el repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "8",
-					"title": "Xerrada repte edge i cloud contra ictus",
+					"title": "Xerrada repte línies de la vida",
 					"startHour": "21:30",
 					"endHour": "22:00",
-					"localization": "Aula A5002",
-					"description": "Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor"
+					"localization": "Aula A6001",
+					"description": "\uD83D\uDDE3️ Si participes en el repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "9",
-					"title": "Fins demà! Tothom a casa!",
-					"startHour": "23:00"
+					"title": "Xerrada repte microbioma seminal",
+					"startHour": "21:30",
+					"endHour": "22:00",
+					"localization": "Aula A6002",
+					"description": "\uD83D\uDDE3️ Si participes en el repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+				},
+				{
+					"id": "10",
+					"title": "Fins demà! Tothom a casa! \uD83D\uDC4B\uD83C\uDFFC",
+					"startHour": "23:00",
+					"description": "\uD83D\uDE34  Bona nit! \uD83D\uDC4B\uD83C\uDFFC"
 				}
 			]
 		},
 		{
 			"name":"Dissabte",
-			"date":"17/12/2022",
+			"date":"16/12/2023",
 			"events":
 			[
 				{
-					"id": "10",
+					"id": "11",
 					"title": "Bon dia, Hackers!",
 					"startHour": "09:00"
 				},
 				{
-					"id": "11",
+					"id": "12",
 					"title": "Esmorzar",
 					"startHour": "09:00",
 					"endHour": "10:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "Toca agafar força per un dia dur!! 🍽"
-				},
-				{
-					"id": "12",
-					"title": "IndoorBits",
-					"startHour": "10:00",
-					"endHour": "11:00",
-					"localization": "Sala Hard del poliesportiu",
-					"description": "Activitat de ciclisme indoor en 2 sessions de 30 minuts"
+					"description": "Toca agafar força per un dia dur!! 🍽 Gaudeix de l'esmorzar del bar del Vèrtex"
 				},
 				{
 					"id": "13",
+					"title": "Mataconills",
+					"startHour": "10:00",
+					"endHour": "11:00",
+					"localization": "Exterior de l'edifici A5",
+					"description": "⚽ Pren-te un descans de la pantalla de la manera més saludable possible i gaudeix jugant al mataconills amb els teus companys!"
+				},
+				{
+					"id": "14",
 					"title": "Dinar",
 					"startHour": "13:00",
 					"endHour": "14:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "A dinar!! 🍽"
-				},
-				{
-					"id": "14",
-					"title": "Construïm Lego!",
-					"startHour": "17:00",
-					"endHour": "18:00",
-					"localization": "A6001",
-					"description": "Desconnecta de tanta pantalla i vine a passar una estona divertida"
+					"description": "A dinar!! 🍽 Gaudeix d'una boníssima fideuà!"
 				},
 				{
 					"id": "15",
+					"title": "Més enllà dels plàtans",
+					"startHour": "16:00",
+					"endHour": "17:30",
+					"localization": "A6001",
+					"description": "\uD83C\uDF4C  Vine i posa a prova els teus coneixements sobre sexualitat amb la xerrada que ofereix Georgina Picas Bernadell, cap de l'ASSIR Hospital del Mar."
+				},
+				{
+					"id": "16",
+					"title": "Karaoke!",
+					"startHour": "18:00",
+					"endHour": "20:00",
+					"localization": "Exterior de l'edifici A6",
+					"description": "\uD83C\uDFA4 \uD83C\uDFB5  Desconnecta del codi amb una mica de música"
+				},
+				{
+					"id": "17",
 					"title": "Sopar",
 					"startHour": "21:00",
 					"endHour": "22:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "A sopar!! 🍽"
+					"description": "A sopar!! 🍽 Toca pizza!!!! \uD83C\uDF55"
 				},
 				{
-					"id": "16",
-					"title": "Fins demà! Tothom a casa!",
-					"startHour": "23:00"
+					"id": "18",
+					"title": "Fins demà! Tothom a casa! \uD83D\uDC4B\uD83C\uDFFC",
+					"startHour": "23:00",
+					"description": "\uD83D\uDE34  Bona nit! \uD83D\uDC4B\uD83C\uDFFC"
 				}
 			]
 		},
 		{
 			"name":"Diumenge",
-			"date":"18/12/2022",
+			"date":"17/12/2023",
 			"events":
 			[
 				{
-					"id": "17",
+					"id": "19",
 					"title": "Bon dia, Hackers!",
 					"startHour": "09:00"
 				},
 				{
-					"id": "18",
+					"id": "20",
 					"title": "Esmorzar",
 					"startHour": "09:00",
 					"endHour": "10:00",
@@ -164,38 +182,39 @@
 					"description": "Toca agafar força per un dia dur!! 🍽"
 				},
 				{
-					"id": "19",
+					"id": "21",
 					"title": "S'acaba el temps de hacking!!",
 					"startHour": "12:00"
 				},
 				{
-					"id": "20",
+					"id": "22",
+					"title": "Dinar",
+					"startHour": "12:00",
+					"endHour": "13:00",
+					"localization": "Exterior de l'edifici A6",
+					"description": "A dinar!! 🍽 Toca canelons casolans!! A gaudir-los"
+				},
+				{
+					"id": "23",
 					"title": "Presentacions dels projectes",
-					"startHour": "12:30",
-					"endHour": "14:00",
-					"localization": "A6102 i A6202",
+					"startHour": "12:45",
+					"endHour": "14:30",
+					"localization": "A6201 i A6202",
 					"description": "Hora de presentar el que heu construït durant el cap de setmana"
 				},
 				{
-					"id": "21",
-					"title": "Dinar",
-					"startHour": "14:00",
-					"endHour": "15:00",
-					"localization": "Exterior de l'edifici A6",
-					"description": "A dinar!! 🍽"
-				},
-				{
-					"id": "22",
+					"id": "24",
 					"title": "Cerimònia de clausura",
-					"startHour": "15:30",
+					"startHour": "15:15",
 					"endHour": "16:30",
 					"localization": "Sala d'actes del Vèrtex",
-					"description": "Es hora de conèixer els guanyadors i de despedir-nos..."
+					"description": "És hora de conèixer els guanyadors i de acomiadar-nos..."
 				},
 				{
-					"id": "24",
-					"title": "Fins a una altra!",
-					"startHour": "16:00"
+					"id": "25",
+					"title": "Fins a una altra! \uD83D\uDC4B\uD83C\uDFFC",
+					"startHour": "17:00",
+					"description": "\uD83D\uDC4B\uD83C\uDFFC Moltes gràcies i esperem veure-us l'any que ve!! \uD83E\uDEC2"
 				}
 			]
 		}
