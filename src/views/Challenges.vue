@@ -41,6 +41,11 @@
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
             <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
           </div>
@@ -68,6 +73,11 @@
               L'RCTG és una eina de control del benestar fetal que no ha variat des de la seva invenció a la dècada dels anys 60. Diverses societats científiques han intentat establir uns criteris homogenis per la interpretació i actuació però no existeix un consens clar en molts aspectes. A més, la gran variabilitat intra i interobservador fa que en determinades situacions similars, la conducta pugui esdevenir diferent i afectar als resultats perinatals. Per tant, existeix una necessitat no coberta en la interpretació objectiva de la FCF.
             </p>
           </div>
+          <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
           <br>
           <div class="margin-bottom text-centered">
             <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
@@ -102,6 +112,11 @@
             </p>
           </div>
           <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
+          <br>
           <div class="margin-bottom text-centered">
             <b>Proposa:</b> <span>Hospital del Mar Research Institute</span>
           </div>
@@ -131,6 +146,11 @@
               L’anàlisi de les comunitats microbianes i la modulació dels seus ecosistemes com a conseqüència de les seves activitats ens ha de permetre perfilar conjunts de microbis que pertanyen al mateix grup taxonòmic o que comparteixen una mateixa “condició biològica” (metabolòmica, secretòmica...). La idea és que la plataforma pugui oferir de manera ràpida i visual la identificació de “connexions òptimes/calentes” entre organismes i/o condicions biològiques, i que ajudin a contextualitzar les accions de cada un dels microorganismes presents a la mostra. I a partir d’aquest coneixement, poder aportar solucions que ajudin a modular el microbioma en els pacients infèrtils que presentin una relació de microorganismes associada a infertilitat.
             </p>
           </div>
+          <br>
+          <p>
+            <strong>Premi: </strong>
+            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+          </p>
           <br>
           <div class="margin-bottom text-centered">
             <b>Proposen i col·laboren:</b> <span>Banc de sang i teixits</span> <span>Microomics</span> <span>Departament de Biologia Cel·lular, Fisiologia i Imnulogia, Facultat de Medicina, UAB</span>
