@@ -2,12 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/71c013e3-dd84-4bc9-b55e-548fd0b8666d/deploy-status)](https://app.netlify.com/sites/bits-live-2020/deploys) 
 
-> This repository contains the 
+> This repository contains the live page for Bits x la Marato. Devloped by Hackers@UPC in Vue.js.
 
-
-
-
-# How to develop
+# How to develop or update the live page
 
 > To be able to install this project is necessary to run it in a node specific version. So for that you need to have installed Node.js
 
@@ -51,6 +48,14 @@ All the changes will be reflected real time, in the browser.
 
 ## Edit content
 
+### Change metadata
+
+- Change in the `src/config.js` the property `notificationTitle` setting the correct year.
+- Change in the `public/index.html` the following properties:
+  - `<title>` setting the correct year (line 8).
+  - `<meta property="og:title">` setting the correct year (line 35).
+
+
 ### Change theme
 
 If you want to change the theme you should change some properties
@@ -63,11 +68,23 @@ The screens you will need to change for sure, are the following ones:
 
 #### Home page (Inici)
 
+1. Change the password Wi-Fi in `src/views/components/Home.vue`. In the `line 10 and 11` you will find the SSID and the password
+2. Change the **Devpost** link in `src/views/components/Home.vue`. In the `line 20` you will find the link.
+3. Change the **Slack** link in `src/views/components/Home.vue`. In the `line 29` you will find the link and the title.
+
+If needed change the social media links also, adding, removing or changing the links in `src/live/components/Home.vue` in the blocks starting in the `line 35 to 46` and `line 47 to 55`.
+
 #### Donations (Donatius)
+
+Change the link to redirect to the donations page, you can change in `src/views/App.vue`. In `lines 32 and 63` you will find the links.
 
 #### Challenges (Reptes)
 
+Change all the challenges in `src/views/components/Challenges.vue`
+
 #### Activities (Activitats)
+
+Change all the activities in `src/views/components/Activities.vue`
 
 #### Schedule (Horari)
 
@@ -97,7 +114,7 @@ To update or change the schedule go to `public/data/schedule.json`. And you will
 
 The duration of it must be changed in `src/config.js`, and it's set in hours.
 
-#### Schedule file
+##### Schedule file
 
 - `id` can be whatever you want, but all ids must be different
 - When writing hours, prepend zeroes: Nice: 01:00; Not-so-nice: 1:00.
@@ -105,9 +122,32 @@ The duration of it must be changed in `src/config.js`, and it's set in hours.
 - `baseTimeOffset` should be the same output as executing (new Date()).getTimezoneOffset() in a machine with local time. (UTC - localtime in minutes)
 - `dates` are DD/MM/YYYY format
 
-> If an event doesn't have endHour, then will show only startHour and it will finish at the same time as it starts.  
+> If an event doesn't have endHour, then will show only startHour, and it will finish at the same time as it starts.  
 Useful to specify events that don't have concept of length or that span through more than one day ("Event start", "Event end")
 
+
+
+## Deploy
+
+### Deploy to localhost
+
+Use `npm run build` to compile all dist directory. The files will be compiled to `/dist/`.
+
+Use `serve -s dist` to just serve `/dist` at [https://localhost:5000](https://localhost:5000).
+
+```sh
+npm run build
+serve -s dist
+```
+
+### Deploy to production
+
+**Push to master**. [Netlify](https://app.netlify.com/sites/bits-live-2020) will build and deploy automatically.
+
+If you push something that doesn't build, don't worry, it won't be published.
+
+
+---
 
 # Structure 
 
@@ -142,31 +182,9 @@ All the sections this live page includes:
 Some parameters (offsets, timeouts, defaults) can be changed in `src/config.js`. Keep in mind that some values are just constants and should not be changed.
 Here you can edit the `FAKE_DATE` parameter to test funtionalities.
 
-## Deploy
-
-### Deploy to localhost
-
-Use `npm run build` to compile all dist directory. The files will be compiled to `/dist/`.
-
-Use `serve -s dist` to just serve `/dist` at [https://localhost:5000](https://localhost:5000).
-
-```sh
-npm run build
-serve -s dist
-```
-
-### Deploy to production
-
-**Push to master**. [Netlify](https://app.netlify.com/sites/bits-live-2020) will build and deploy automatically.
-
-If you push something that doesn't build, don't worry, it won't be published.
-
 ## Support
 
-If you need help understanding something of this repo you can ask the previous developers. The ones that made this edition live were:
-
-- Carlota Catot Bragós: Slack `@Carlota` [carlotacb.dev](https://carlotacb.dev/)
-- Maurici Abad Gutierrez: Slack `@mauriciabad` [mauriciabad.com](https://mauriciabad.com/)
+If you need help understanding something of this repo you can ask the previous developers, and the Hackers@UPC webdev team.
 
 ## License
 
