@@ -7,8 +7,8 @@
         <div class="flex-containers">
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
-              <p class="label text-normal"><b>Xarxa:</b> <span> #BITSxLAMARATO </span></p> <br>
-              <p class="label text-normal"><b>Contrasenya:</b> <span> 400?BxM22 </span> </p>
+              <p class="label text-normal"><b>Xarxa:</b> <span> BITSxLAMARATO </span></p> <br>
+              <p class="label text-normal"><b>Contrasenya:</b> <span> BITSxM23* </span> </p>
             </div>
           </div>
         </div>
@@ -17,7 +17,7 @@
             <h3 class="text-centered margin-bottom" style="margin-top: 0">Links</h3>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://bitsxlamarato-2022.devpost.com/" class="external-link">Devpost</a>
+            <a target="_blank" href="https://bitsxlamarato-2023.devpost.com/?ref_feature=challenge&ref_medium=discover" class="external-link">Devpost</a>
           </div>
           <p><b>Estudiants de la FIB!</b> Recordeu que per obtenir els dos crèdits és obligatori penjar el projecte a Devpost i presentar-lo al jurat!</p>
         </div>
@@ -26,7 +26,7 @@
         <h1>Contacte</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span><a href="https://bitsxlamarat2022.slack.com" target="_blank">Slack bitsxlaMarato 2022</a></span>
+          <span><a href="https://bitsxlamarato2023.slack.com" target="_blank">Slack bitsxlaMarato 2023</a></span>
         </div>
         <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
@@ -36,7 +36,7 @@
           <h3 class="text-centered margin-bottom">Xarxes socials de Hackers@UPC</h3>
           <div class="buttons">
             <a class="fb" target="_blank" href="https://www.facebook.com/hackersupc"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-            <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fab fa-x-twitter" aria-hidden="true"></i></a>
             <a class="ig" target="_blank" href="https://instagram.com/hackersupc"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.youtube.com/c/HackersUPC"><i class="fab fa-youtube" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.twitch.tv/hackersupc"><i class="fab fa-twitch" aria-hidden="true"></i></a>
@@ -48,7 +48,7 @@
           <h3 class="text-centered margin-bottom">Xarxes socials de FIB</h3>
           <div class="buttons">
             <a class="fb" target="_blank" href="https://www.facebook.com/fib.upc"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-            <a class="tw" target="_blank" href="https://twitter.com/fib_upc"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            <a class="tw" target="_blank" href="https://twitter.com/fib_upc"><i class="fab fa-x-twitter" aria-hidden="true"></i></a>
             <a class="ig" target="_blank" href="https://www.instagram.com/fib.upc/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.youtube.com/user/mediafib"><i class="fab fa-youtube" aria-hidden="true"></i></a>
           </div>
