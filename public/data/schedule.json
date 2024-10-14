@@ -2,12 +2,12 @@
 	"version": 2,
 	"message": "",
 	"baseTimeOffset":"-60",
-	"countdownStart":"15/12/2023 19:00",
+	"countdownStart":"13/12/2024 19:00",
 	"days":
 	[
 		{
 			"name": "Divendres",
-			"date":"15/12/2023",
+			"date":"13/12/2024",
 			"events":
 			[
 				{
@@ -99,7 +99,7 @@
 		},
 		{
 			"name":"Dissabte",
-			"date":"16/12/2023",
+			"date":"14/12/2024",
 			"events":
 			[
 				{
@@ -165,7 +165,7 @@
 		},
 		{
 			"name":"Diumenge",
-			"date":"17/12/2023",
+			"date":"15/12/2024",
 			"events":
 			[
 				{
