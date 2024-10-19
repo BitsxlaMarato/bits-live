@@ -26,7 +26,7 @@
         <h1>Contacte</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span><a href="https://bitsxlamarato2024.slack.com" target="_blank">Slack bitsxlaMarato 2024</a></span>
+          <span><a href="https://bitsxlamarat2024.slack.com" target="_blank">Slack bitsxlaMarato 2024</a></span>
         </div>
         <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
