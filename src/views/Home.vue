@@ -70,7 +70,7 @@
             <div class="margin-bottom text-centered">
               <p>Si veniu amb autobús, us serviran qualsevol dels següents autobusos:</p>
               <b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>, un cop allà estareu al costat del campus. <br>
-              <b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de Palau Reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.
+              <b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de Palau Reial heu de pujar cap al Campus Nord, <br>situat al damunt de la facultat d'economia de la UB.
             </div>
           </div>
         </div>
