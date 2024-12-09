@@ -47,7 +47,7 @@
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span>L'institut de recerca Germans Trias i Pujol (IGTP) i CEEISCAT</span>
+            <b>Proposa:</b> <span>L'institut de recerca Germans Trias i Pujol (IGTP)</span> i <span>CEEISCAT</span>
           </div>
         </div>
       </div>
@@ -113,7 +113,7 @@
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span> IDIBELL, CIBERES i l'associació de pacients AIRE</span>
+            <b>Proposa:</b> <span> IDIBELL</span>, <span>CIBERES</span> i <span>l'associació de pacients AIRE</span>
           </div>
         </div>
       </div>
@@ -146,7 +146,7 @@
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span>IDIBELL, CIBERES i l'associació de pacients AIRE</span>
+            <b>Proposa:</b> <span>IDIBELL</span>, <span>CIBERES</span> i <span>l'associació de pacients AIRE</span>
           </div>
         </div>
       </div>
