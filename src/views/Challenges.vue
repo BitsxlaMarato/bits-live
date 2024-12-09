@@ -130,13 +130,7 @@
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              Desenvolupar una plataforma a la qual s’accedeixi amb un codi QR i que permeti: 
-              
-              1. Incloure les dades bàsiques sobre la malaltia i condicions clíniques rellevants del pacient (per part del mateix pacient i del seu equip mèdic/infermeria),
-
-              2. Sistema d’Intel·ligència Artificial que permeti incorporar aquestes dades i actualització d’informació sobre com actuar (que puguin incorporar-se tan manualment com a través de la cerca d’internet en pàgines predefinides),
-              
-              3. Desenvolupar algoritmes d’actuació que es puguin validar i perfeccionar pel seu ús a la pràctica clínica.
+              Desenvolupar una plataforma a la qual s’accedeixi amb un codi QR i que permeti: 1. Incloure les dades bàsiques sobre la malaltia i condicions clíniques rellevants del pacient (per part del mateix pacient i del seu equip mèdic/infermeria), 2. Sistema d’Intel·ligència Artificial que permeti incorporar aquestes dades i actualització d’informació sobre com actuar (que puguin incorporar-se tan manualment com a través de la cerca d’internet en pàgines predefinides),3. Desenvolupar algoritmes d’actuació que es puguin validar i perfeccionar pel seu ús a la pràctica clínica.
             </p>
           </div>
           <div class="margin-bottom">

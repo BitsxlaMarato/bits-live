@@ -9,4 +9,4 @@ export default {
   baseTimeOffset: -60 * 60,
   hackathon_duration_hours: 41,
   schedule: schedule,
-}; 
+};
