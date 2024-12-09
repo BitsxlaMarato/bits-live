@@ -142,7 +142,8 @@
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              Els pacients amb malalties pulmonars intersticials difuses solen tenir problemes aguts com infeccions respiratòries, exacerbacions sobtades de la malaltia o embòlia pulmonar o pneumotòrax. Si aquests episodis aguts apareixen durant un viatge o lluny de l’hospital on tracten al pacient l’equip d’urgències que l’atengui pot tenir problemes per identificar l’actitud diagnòstic-terapèutica adequada o òptima. D’altra banda, el tractament ràpid i efectiu d’aquestes condicions pot reduir el risc de mort associat, així com l’ús inadequat de fàrmacs en casos no necessaris o inclús perillosos. Per tant, desenvolupar eines que puguin ajudar en la millora de l’abordatge urgent de complicacions agudes en pacients amb malalties pulmonars intersticials serà de gran valor pels serveis assistencials d’urgències i pels pacients.            </p>
+              Els pacients amb malalties pulmonars intersticials difuses solen tenir problemes aguts com infeccions respiratòries, exacerbacions sobtades de la malaltia o embòlia pulmonar o pneumotòrax. Si aquests episodis aguts apareixen durant un viatge o lluny de l’hospital on tracten al pacient l’equip d’urgències que l’atengui pot tenir problemes per identificar l’actitud diagnòstic-terapèutica adequada o òptima. D’altra banda, el tractament ràpid i efectiu d’aquestes condicions pot reduir el risc de mort associat, així com l’ús inadequat de fàrmacs en casos no necessaris o inclús perillosos. Per tant, desenvolupar eines que puguin ajudar en la millora de l’abordatge urgent de complicacions agudes en pacients amb malalties pulmonars intersticials serà de gran valor pels serveis assistencials d’urgències i pels pacients.            
+            </p>
           </div>
           <br>
           <p>
