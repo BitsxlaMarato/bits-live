@@ -55,12 +55,12 @@
         </div>
       </div>
       <div class="panel large">
-        <h1>Com arribar a bitsxlamarato</h1>
+        <h1>Com arribar a bitsxlaMarató</h1>
         <div class="get-there">
           <h2 class="get-title text-centered margin-bottom"><i class="fa fa-train" aria-hidden="true"></i> Amb tren</h2>
           <div class="flex-containers">
             <div class="margin-bottom text-centered">
-              <p>Si veniu amb tren, heu d'agafar l'L3, direcció <b>Zona Universitària</b> fins a l'estació de <b>Palau Reial</b>. <br><br> Des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB. També podeu agafar el tram fins a la parada de <b>Palau Reial</b>.</p>
+              <p>Si veniu amb tren, heu d'agafar la línia de metro L3, direcció <b>Zona Universitària</b> fins a la parada de <b>Palau Reial</b>. <br>També podeu agafar el tram fins a la parada de <b>Palau Reial</b>. <br><br> Des de Palau Reial heu de pujar fins al Campus Nord, situat al damunt de la facultat d'economia de la UB. </p>
             </div>
           </div>
         </div>
@@ -69,8 +69,8 @@
           <div class="flex-containers">
             <div class="margin-bottom text-centered">
               <p>Si veniu amb autobús, us serviran qualsevol dels següents autobusos:</p>
-              <b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>  un cop allà estareu al costat del campus. <br>
-              <b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de palau reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.
+              <b>33</b> fins a la parada <b>Jordi Girona - John M Keynes</b>, un cop allà estareu al costat del campus. <br>
+              <b>7</b>, <b>67</b>, <b>75</b>, <b>113</b> o <b>H6</b>  fins a la parada <b>Palau Reial</b>, des de Palau Reial heu de pujar cap al Campus Nord, situat al damunt de la facultat d'economia de la UB.
             </div>
           </div>
         </div>
@@ -78,7 +78,7 @@
           <h2 class="get-title text-centered margin-bottom"><i class="fa fa-bicycle" aria-hidden="true"></i> Amb bici</h2>
           <div class="flex-containers">
             <div class="margin-bottom text-centered">
-              <p>Si veniu amb bici, trobareu lloc per aparcar a l'interior del campus, no us olvideu el candau, hi ha barres per biciletes per tot arreu!.</p>
+              <p>Si veniu amb bici, trobareu lloc per aparcar a l'interior del campus, recordeu portar candau, hi ha barres per deixar bicicletes a tot arreu!</p>
             </div>
           </div>
         </div>
@@ -94,7 +94,7 @@
           <h2 class="get-title text-centered margin-bottom"><i class="fa fa-motorcycle" aria-hidden="true"></i> Amb moto</h2>
           <div class="flex-containers">
             <div class="margin-bottom text-centered">
-              <p>Si entreu pel campus a través del carrer Santa Maria Cervelló i paseu pel costat de la barrera, trobareu a l'interior de campus un parking de motos</p>
+              <p>Si entreu pel campus a través del carrer Santa Maria Cervelló i paseu pel costat de la barrera, trobareu a l'interior del campus un aparcament per motos.</p>
             </div>
           </div>
         </div>
