@@ -17,7 +17,7 @@
             <h3 class="text-centered margin-bottom" style="margin-top: 0">Links</h3>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://bitsxlamarato-2023.devpost.com/?ref_feature=challenge&ref_medium=discover" class="external-link">Devpost</a>
+            <a target="_blank" href="https://bitsxlamarato-2024.devpost.com" class="external-link">Devpost</a>
           </div>
           <p><b>Estudiants de la FIB!</b> Recordeu que per obtenir els dos crèdits és obligatori penjar el projecte a Devpost i presentar-lo al jurat!</p>
         </div>
