@@ -15,22 +15,22 @@
 					"title": "Registre",
 					"startHour": "17:00",
 					"endHour": "17:45",
-					"localization": "Entrada de la sala d'actes de l'edifici Vèrtex",
+					"localization": "Entrada de l'auditori de l'edifici Vèrtex",
 					"description": "Vine amb un carnet amb foto per completar el teu registre i poder gaudir de l'esdeveniment"
 				},
 				{
 					"id": "1",
 					"title": "Cerimònia d'obertura",
-					"startHour": "17:45",
+					"startHour": "17:50",
 					"endHour": "19:00",
-					"localization": "Sala d'actes del Vèrtex",
+					"localization": "Auditori del Vèrtex",
 					"description": "Aprèn sobre els reptes i el funcionament de la hackathon"
 				},
 				{
 					"id": "2",
 					"title": "Comença el temps de hacking",
 					"startHour": "19:00",
-					"localization": "Edifici A6 - Aules planta 1",
+					"localization": "Edifici A6 - Aules",
 					"description": "It's on! Comença el temps per crear projectes!"
 				},
 				{
@@ -59,7 +59,7 @@
 				},
 				{
 					"id": "6",
-					"title": "Xerrada repte XX",
+					"title": "Xerrada repte QResp",
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6001",
@@ -67,7 +67,7 @@
 				},
 				{
 					"id": "7",
-					"title": "Xerrada repte XX",
+					"title": "Xerrada repte La Lluita Continua",
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6002",
@@ -75,7 +75,7 @@
 				},
 				{
 					"id": "8",
-					"title": "Xerrada repte XX",
+					"title": "Xerrada repte FibroPred",
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6001",
@@ -83,7 +83,7 @@
 				},
 				{
 					"id": "9",
-					"title": "Xerrada repte XX",
+					"title": "Xerrada repte Fem visible l'invisible",
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6002",
@@ -117,10 +117,10 @@
 				},
 				{
 					"id": "13",
-					"title": "Mataconills",
+					"title": "Activitat IDIBELL",
 					"startHour": "10:00",
-					"endHour": "11:00",
-					"localization": "Exterior de l'edifici A5",
+					"endHour": "11:30",
+					"localization": "Exterior de l'edifici A6",
 					"description": "⚽ Fes un descans de la pantalla de la manera més saludable possible i gaudeix jugant al mataconills amb els teus companys!"
 				},
 				{
@@ -133,10 +133,10 @@
 				},
 				{
 					"id": "15",
-					"title": "Més enllà dels plàtans",
+					"title": "Mataconills",
 					"startHour": "16:00",
-					"endHour": "17:30",
-					"localization": "A6001",
+					"endHour": "17:00",
+					"localization": "Exterior de l'edifici A6",
 					"description": "\uD83C\uDF4C  Vine i posa a prova els teus coneixements sobre sexualitat amb la xerrada que ofereix Georgina Picas Bernadell, cap de l'ASSIR Hospital del Mar."
 				},
 				{
@@ -184,7 +184,8 @@
 				{
 					"id": "21",
 					"title": "S'acaba el temps de hacking!!!",
-					"startHour": "12:00"
+					"startHour": "12:00",
+					"description": "Recordeu que per poder fer la Demo heu de penjar el projecte a DevPost!"
 				},
 				{
 					"id": "22",
@@ -196,11 +197,11 @@
 				},
 				{
 					"id": "23",
-					"title": "Presentacions dels projectes",
+					"title": "Presentacions dels projectes (DemoFair)",
 					"startHour": "12:45",
 					"endHour": "14:30",
 					"localization": "A6201 i A6202",
-					"description": "Hora de presentar el que heu desenvolupat durant el cap de setmana"
+					"description": "Hora de presentar el projecte que heu desenvolupat durant el cap de setmana"
 				},
 				{
 					"id": "24",
