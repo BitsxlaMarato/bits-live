@@ -11,7 +11,7 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>A6002</span>
           </div>
-          <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! Vine a l'aula A6001, on trobarem un equip per tu o completarem el teu! </p>
+          <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és la teva oportunitat! Vine a l'aula A6002, on trobarem un equip per tu o completarem el teu! </p>
         </div>
       </div>
       <div class="panel">
@@ -21,7 +21,7 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>A6001</span>
           </div>
-          <p class="margin-bottom"> Tens dubtes amb Git i GitHub? Vols descobrir perquè no saps de què parlem? Vine a la xerrada i resol tot els teus dubtes sobre com treballar en equip en un projecte de software! </p>
+          <p class="margin-bottom"> Tens dubtes amb Git i GitHub? Vols descobrir per què no saps de què parlem? Vine a la xerrada i resol tots els teus dubtes sobre com treballar en equip en un projecte de software! </p>
         </div>
       </div>
       <!--<div class="panel large">
@@ -44,18 +44,18 @@
         </div>
       </div>-->
       <div class="panel large">
-        <h1 style="text-transform: uppercase;">Més enllà dels plàtans</h1>
+        <h1 style="text-transform: uppercase;">Posa els teus pulmons a prova</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>A6001</span>
+            <span>Exterior de l'edifici A6</span>
           </div>
           <p>
-            Malauradament l' educació sexual de molts de nosaltres,  s'ha basat en una xerrada breu a l'escola  acabant posant un condó a un platan o similar. I això en els millors casos 😔 . Silencis, tabús, mites... la sexualitat i el coneixement de la nostra pròpia salut sexual i reproductiva n'està ple. Vine i posa a prova els teus coneixements.  Segur que acabaràs entenen la gran importància de gaudir d'una bona salut sexual.
+            Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes.
           </p>
           <br>
           <p>
-            <strong>Activitat dirigida per: </strong>Georgina Picas Bernadell, cap de l'ASSIR Hospital del Mar.
+            <strong>Activitat dirigida per: </strong>Maria Molina, de IDIBELL.
           </p>
         </div>
       </div>
@@ -64,19 +64,19 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Edifici exterior del A6</span>
+            <span>Exterior de l'edifici A6</span>
           </div>
-          <p>Posarem un altaveu amb micròfons, estigues atent a Slack perquè avisarem en els moments on estigui disponible i puguis desconnectar una estoneta del codi</p>
-        </div>
+          <p>Posarem un altaveu amb micròfons, vine a desconnectar del teu projecte per cantar una mica.</p>
+        </div> 
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Mataconills</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>Edifici exterior del A5</span>
+            <span>Exterior de l'edifici A6</span>
           </div>
-          <p>Pren-te un descans de la pantalla de la manera més saludable possible i gaudeix jugant al mataconills amb els teus companys!</p>
+          <p>Fes un descans de la pantalla de la manera més saludable possible: gaudeix jugant al mataconills amb els teus companys!</p>
         </div>
       </div>
     </div>
