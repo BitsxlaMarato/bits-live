@@ -67,7 +67,7 @@
             <span>Exterior de l'edifici A6</span>
           </div>
           <p>Posarem un altaveu amb micròfons, vine a desconnectar del teu projecte per cantar una mica.</p>
-        </div> 
+        </div>
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Mataconills</h1>
