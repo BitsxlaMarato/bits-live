@@ -16,7 +16,7 @@
 					"startHour": "17:00",
 					"endHour": "17:45",
 					"localization": "Entrada de l'auditori de l'edifici Vèrtex",
-					"description": "Vine amb un carnet amb foto per completar el teu registre i poder gaudir de l'esdeveniment"
+					"description": "Vine amb un carnet identificatiu per poder fer el teu registre i gaudir de l'esdeveniment"
 				},
 				{
 					"id": "1",
@@ -39,7 +39,7 @@
 					"startHour": "19:00",
 					"endHour": "19:30",
 					"localization": "Aula A6002",
-					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva activitat! Troba gent amb la que poder crear un projecte"
+					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva oportunitat! Troba gent amb la que poder crear un projecte"
 				},
 				{
 					"id": "4",
@@ -55,7 +55,7 @@
 					"startHour": "20:00",
 					"endHour": "21:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "Hora de sopar!! 🍽 Gaudeix dels entrepans del bar de la FIB!"
+					"description": "Hora de sopar! 🍽 Gaudeix dels entrepans del bar de la FIB!"
 				},
 				{
 					"id": "6",
@@ -63,7 +63,7 @@
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6001",
-					"description": "\uD83D\uDDE3️ Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+					"description": "\uD83D\uDDE3️ Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "7",
@@ -71,7 +71,7 @@
 					"startHour": "21:00",
 					"endHour": "21:30",
 					"localization": "Aula A6002",
-					"description": "\uD83D\uDDE3️ Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "8",
@@ -79,7 +79,7 @@
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6001",
-					"description": "\uD83D\uDDE3️ Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "9",
@@ -87,7 +87,7 @@
 					"startHour": "21:30",
 					"endHour": "22:00",
 					"localization": "Aula A6002",
-					"description": "\uD83D\uDDE3️ Si participes al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "10",
@@ -117,11 +117,11 @@
 				},
 				{
 					"id": "13",
-					"title": "Activitat IDIBELL",
+					"title": "Activitat: Posa els teus pulmons a prova",
 					"startHour": "10:00",
 					"endHour": "11:30",
 					"localization": "Exterior de l'edifici A6",
-					"description": "⚽ Fes un descans de la pantalla de la manera més saludable possible i gaudeix jugant al mataconills amb els teus companys!"
+					"description": "Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes."
 				},
 				{
 					"id": "14",
@@ -137,7 +137,7 @@
 					"startHour": "16:00",
 					"endHour": "17:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "\uD83C\uDF4C  Vine i posa a prova els teus coneixements sobre sexualitat amb la xerrada que ofereix Georgina Picas Bernadell, cap de l'ASSIR Hospital del Mar."
+					"description": "\uD83C\uDF4C  ⚽ Fes un descans de la pantalla de la manera més saludable possible i gaudeix jugant al mataconills amb els teus companys!"
 				},
 				{
 					"id": "16",
@@ -145,7 +145,7 @@
 					"startHour": "18:00",
 					"endHour": "20:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "\uD83C\uDFA4 \uD83C\uDFB5  Desconnecta del codi amb una mica de música"
+					"description": "\uD83C\uDFA4 \uD83C\uDFB5 Desconnecta del teu projecte amb una mica de música"
 				},
 				{
 					"id": "17",
@@ -193,7 +193,7 @@
 					"startHour": "12:00",
 					"endHour": "13:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "A dinar! 🍽 Toquen canelons casolans!!! A gaudir-los"
+					"description": "A dinar! 🍽 Toquen canelons!!! A gaudir-los"
 				},
 				{
 					"id": "23",
@@ -209,13 +209,13 @@
 					"startHour": "15:15",
 					"endHour": "16:30",
 					"localization": "Sala d'actes del Vèrtex",
-					"description": "És hora de conèixer els guanyadors i d'acomiadar-nos..."
+					"description": "És hora de saber els guanyadors i acomiadar-nos..."
 				},
 				{
 					"id": "25",
 					"title": "Fins una altra! \uD83D\uDC4B\uD83C\uDFFC",
 					"startHour": "17:00",
-					"description": "\uD83D\uDC4B\uD83C\uDFFC Moltes gràcies i esperem veure-us l'any vinent!!! \uD83E\uDEC2"
+					"description": "\uD83D\uDC4B\uD83C\uDFFC Moltes gràcies, esperem veure-us l'any vinent!!! \uD83E\uDEC2"
 				}
 			]
 		}
