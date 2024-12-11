@@ -29,7 +29,7 @@
             <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.migranodearena.org/reto/bitsxlamarato-2023" target="_blank" class="external-link">Donatius</a>
+            <a href="https://www.migranodearena.org/reto/bitsxlamarato-2024" target="_blank" class="external-link">Donatius</a>
           </li>
           <li :class="isActive('/challenges')">
             <router-link to="/challenges">Reptes</router-link>
@@ -60,7 +60,7 @@
             <router-link to="/schedule">Horari</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.migranodearena.org/reto/bitsxlamarato-2023" target="_blank" class="external-link">Donatius</a>
+            <a href="https://www.migranodearena.org/reto/bitsxlamarato-2024" target="_blank" class="external-link">Donatius</a>
           </li>
           <li @click="toggleFullscreen" id="countdown-li">
             <Countdown/>

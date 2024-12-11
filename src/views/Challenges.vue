@@ -19,141 +19,134 @@
         </div>
       </div>-->
       <div class="panel large">
-        <h1>Quanta sang et pren Dràcula cada mes? VIGILEM-LO!</h1>
+        <h1>La lluita continua: seguim les malalties respiratòries des de les aules!</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>dràcula</span>
+          <span>la-lluita-continua</span>
         </div>
         <div>
           <p class="margin-bottom">
-              El comte Dràcula és el protagonista de la novel·la d'horror gòtic de l'escriptor irlandès Bram Stoker, del 1897. Una de les seves característiques mes conegudes és que s’alimenta de la sang de les seves víctimes, deixant-les amb poca energia o, fins i tot, convertint-les en vampir. Les dones en edat fèrtil tenim el nostre propi “Dràcula”, la menstruació, que origina cada mes un sagnat genital fruit de la descamació de l’endometri si no s’ha aconseguit la gestació en aquell cicle ovulatori. Els criteris de normalitat del sagnat menstrual són que aquest ha de ser de menys de 80 ml per cicle menstrual. Qualsevol increment d’aquesta quantitat és considera sagnat menstrual abundant. Hi ha certes malalties que poden ocasionar que la quantitat de la menstruació sigui major a la esperable i ocasionar dèficits de ferro i/o anèmia, al mateix temps que una pèrdua de la qualitat de vida. Però com podem quantificar la pèrdua hemàtica que cada més genera la menstruació? Com podem saber si és normal o augmentada?
+            Les escoles i instituts són un entorn d'aprenentatge i creixement per a infants i adolescents, i un moment clau per donar a conèixer aspectes que impliquen la salut personal i col·lectiva. La pandèmia de la Covid va posar un repte per al funcionament dels centres educatius, així com per al seguiment epidemiològic, tot i que també va servir per conscienciar sobre els impactes de les malalties infeccioses. Els sistemes de vigilància de malalties infeccioses se centren generalment en l'àmbit hospitalari o els centres d'atenció primària. Tanmateix, entorns comunitaris com les escoles viuen constantment esdeveniments de salut, molts dels quals acaben no arribant als centres de salut i es perden de vista. Això vol dir que quan es produeix un brot, p. ex. d'una malaltia respiratòria infecciosa, és difícil conèixer-ne l'origen o el camí que va seguir. A més, és important fomentar que l’alumnat aprengui i prengui consciència dels factors que influeixen en l'aparició de problemes de salut, així com de les accions que es poden dur a terme per evitar-los.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              L’objectiu d’aquest repte és la creació d’una eina mòbil que permeti a les dones completar digitalment aquest test (PBAC Score) al llarg del seu cicle menstrual i que en faci un càlcul de la seva puntuació. Per evitar errades a la introducció del registre es podria valorar que la eina fes un reconeixement d’imatge del producte sanitari (tampó o compresa), de com està tacat i que assigni directament la puntuació. Però estem obert sa qualsevol solució!.
+              El repte tecnològic consisteix a crear una eina digital amb tres funcionalitats. El primer fa referència a una eina per registrar els símptomes respiratoris i altres relacionats amb malalties infeccioses, en cas que apareguin, així com registrar l'estat de salut actual de l’usuari. Aquest servei ha d'estar disponible als centres perquè alumnes i docents puguin consultar els resultats de manera autònoma. A més, l'eina utilitzant mètodes de ciència de dades ha d'integrar bases de dades obertes i actualitzades sobre factors que poden explicar o influir en l'aparició d'aquests símptomes i canvis en l'estat de salut general de l’alumnat. Entre ells, la incidència de malalties respiratòries, la positivitat de les proves diagnòstiques, a més de variables climàtiques que ja se sap que estan associades a malalties respiratòries, com les partícules i altres contaminants, aspectes climàtics com la temperatura i la concentració de pol·len i altres al·lèrgens. Aquesta aplicació es pot basar en la intel·ligència artificial, per exemple, per generar anàlisis estadístiques senzilles que aportin proves, i això permet respostes ràpides per contenir aquests escenaris de brot. Finalment, a partir de totes aquestes dades, l'eina ha de generar models de previsió que anticipin esdeveniments epidemiològics importants amb relació a la població pediàtrica i adolescent, assenyalant escenaris que es poden mitigar a escala domèstica, escolar i de serveis sanitaris, de manera que puguem evitar la sobrecàrrega d’hospitals i altres serveis de salut.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              La detecció precoç del sagnat menstrual abundant i el seu tractament són fonamentals per a la salut i el benestar de les dones. A més d'alleujar els símptomes, el diagnòstic adequat pot ajudar a abordar condicions subjacents i prevenir complicacions a llarg termini, cosa que té un impacte positiu en la qualitat de vida i la salut en general. Actualment tenim mètodes directes per poder quantificar la quantitat de sagnat (per exemple la copa menstrual) però moltes vegades hem de recórrer a la impressió subjectiva de la dones, que moltes vegades normalitzen el seu sagnat. Per tal de poder avaluar la quantitat de sagnat disposem de taules pictòriques validades com el PBAC Score (Pictorial Blood Assessment Chart) és una escala on la pacient puntua tots els productes sanitaris (compreses, tampons) que empra al llarg del mes en funció de com estan tacats. La puntuació total al llarg d’un cicle està relacionada amb la quantitat de sagnat menstrual i es diagnostica de SMA quan aquesta puntuació és superior a 100. Entre les limitacions que tenim per aquest test és que requereix una mica de temps perquè la pacient el completi i que moltes vegades no es valora adequadament la quantitat de sang que presenten els productes sanitaris tacats.
+              Es preveu que l'eina digital de seguiment dels símptomes a les escoles actuï com una estratègia complementària als sistemes habituals de vigilància de la salut pública i, eventualment, aporti evidència sobre els factors desencadenants dels brots de malalties respiratòries, podent millorar la preparació i les respostes dels serveis sanitaris, i alhora, permetre que la comunitat educativa participi activament en el seguiment, prevenció i promoció de les mesures sanitàries.
             </p>
           </div>
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+            L'equip guanyador d'aquest repte obtindrà un premi de 100 euros (màxim 4 persones per equip). Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
+            <b>Proposa:</b> <span>L'institut de recerca Germans Trias i Pujol (IGTP)</span> i <span>CEEISCAT</span>
           </div>
         </div>
       </div>
       <div class="panel large">
-        <h1>Interpretem millor les línies de la vida, amb IA?</h1>
+        <h1>Fem visible l’invisible</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>línies-de-la-vida</span>
+          <span>fem-visible-linvisible</span>
         </div>
         <div>
           <p class="margin-bottom">
-            Després del diagnòstic d’un embaràs, creixen les il.lusions durant 9 mesos esperant el moment de rebre al nou membre de la família. Però el moment del part sempre representa un moment crític en el desenllaç favorable de l’embaràs. L’estímul de les contraccions del part, possibles infeccions o altre complicacions pot fer que el nadó experimenti una pèrdua de benestar que pugui condicionar la seva salut futura o, en casos molt severs, la seva mort. Per tal de detectar aquestes possibles alteracions, durant el treball de part es realitza un registre cardiotocogràfic, que és una valoració continuada de la freqüència cardíaca fetal i de les contraccions uterines maternes. Alteracions en el patró d’aquest RCTG es relacionen amb pèrdues de benestar fetal o patiments fetals i els professionals poden actuar, ja sigui administrant fàrmacs per millorar aquest estat o treure el nounat de forma ràpida mitjançant instrumentació (p.e fòrceps o ventosa) o cesàrea. La gran limitació és que, tot i que hi ha patrons molt clars, la interpretació final del RCTG és subjectiva, presenta molta variabilitat i no ens pot predir totes les situacions.
+            La Roser, una nena de sis anys de Mataró que pateix asma severa, i els seus pares estan buscant un barri amb un aire més net on ella pugui créixer sense posar en risc la seva salut. Però, com saber quines zones tenen la millor qualitat de l’aire i, sobretot, quines haurien d’evitar passi el que passi? Actualment, el sistema CALIOPE ofereix prediccions de la qualitat de l’aire a Catalunya amb una resolució d’1 km x 1 km. Tot i això, aquesta resolució no proporciona detalls sobre la qualitat de l’aire a escala de cada carrer, una informació clau per identificar els punts amb pitjor qualitat de l'aire i així protegir la salut pública. Els mètodes de downscaling transformen prediccions a baixa resolució en dades d’alta resolució utilitzant informació complementària. Aquests mètodes fan servir tècniques estadístiques, com ara la interpolació espacial, els models de regressió, la fusió de dades i, fins i tot, eines d’intel·ligència artificial. Per fer aquest repte s'han de complir amb la declaració d'ús de les dades de CALIOPE i RESPIRE.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              El repte tecnològic consisteix en elaborar un eina digital que ens permeti el reconeixement de patrons en el RCTG per avaluar de forma objectiva l’estat fetal i que, al mateix temps, sigui capaç de trobar patrons específics que es puguin relacionar amb els diferents resultats perinatals.
+              L’objectiu d’aquest repte és oferir a la ciutadania mapes de la qualitat de l’aire de les diferents ciutats de Catalunya. Per augmentar la resolució dels mapes actuals, existeixen conjunts de dades públics (com ara dades de trànsit, elevació del terreny o dades d’usos del sòl) i mesures (estacions de mesura de qualitat de l’aire XVPCA o dades de satèl·lit) que es poden combinar per obtenir informació fiable a l’escala de carrer.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              L'RCTG és una eina de control del benestar fetal que no ha variat des de la seva invenció a la dècada dels anys 60. Diverses societats científiques han intentat establir uns criteris homogenis per la interpretació i actuació però no existeix un consens clar en molts aspectes. A més, la gran variabilitat intra i interobservador fa que en determinades situacions similars, la conducta pugui esdevenir diferent i afectar als resultats perinatals. Per tant, existeix una necessitat no coberta en la interpretació objectiva de la FCF.
+              La contaminació de l'aire és considerada la problemàtica ambiental més rellevant per a la salut pública global, segons l’Organització Mundial de la Salut. El seu impacte en la salut és comparable a altres riscos rellevants, com les dietes poc saludables i el tabaquisme. L’exposició a la contaminació atmosfèrica està fortament relacionada amb problemes de salut respiratoris i cardiovasculars. S’estima que la contaminació de l’aire va causar més de 400.000 morts prematures a Europa el 2021. D’aquestes, 293.000 van ser atribuïdes a l’exposició a partícules fines, 69.000 al diòxid de nitrogen i 27.000 a l’exposició a curt termini a l’ozó.
             </p>
           </div>
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+            L'equip guanyador d'aquest repte obtindrà un premi de 100 euros (màxim 4 persones per equip). Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</span>
+            <b>Proposa:</b> <span>BSC Earth Air Quality Services Team</span>
           </div>
         </div>
       </div>
       <div class="panel large">
-        <h1>SexEd+: Codificant la sexualitat del futur</h1>
+        <h1>Predictor pronòstic en fibrosi pulmonar (FibroPred): algorisme predictiu al diagnòstic</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>sexed-plus</span>
+          <span>fibropred</span>
         </div>
         <div>
           <p class="margin-bottom">
-            La sexualitat entre la població jove ha esdevingut un tema crític que necessita ser abordat amb urgència. Actualment, l'allau d’informació no contrastada, la influència de la pornografia o la inadequada educació sexual pot conduir a una sèrie de problemes que afecten el benestar dels joves. En moltes comunitats, hi ha una manca d'informació accessible i inclusiva sobre temes com el consentiment, les pràctiques sexuals segures, la diversitat sexual i els aspectes emocionals de les relacions. Aquest buit en l'educació sexual pot resultar en decisions inadequades, relacions conflictives, i fins i tot problemes de salut física i mental.
-
-            Amb l'auge de la tecnologia i l’accés a la pornografia, els joves es troben immersos en un món digital que pot influir significativament en les seves percepcions i comportaments en matèria de sexualitat. Això presenta la necessitat crítica d'innovar en les maneres en què es proporciona informació sexual als joves, aprofitant les eines tecnològiques que formen part integrant de les seves vides diàries.
-
-            A través d'aquest repte, es pretén no només prevenir problemes de salut sexual sinó també promoure relacions respectuoses, consciència de la diversitat sexual i el benestar emocional dels joves en l'era digital.
+            La fibrosi pulmonar és el resultat de la mala reparació del pulmó després de diferents tipus de lesions, i aquesta cicatriu al teixit pulmonar no permet el pas d’oxigen, creix de forma incontrolada i provoca retracció, enduriment i insuficiència per respirar progressivament. El teixit del pulmó s’anomena “interstici pulmonar” i les malalties que s’hi originen són les malalties intersticials. Quan la malaltia intersticial ocasiona fibrosi pulmonar, aquesta es diagnostica en funció de l’origen o causa: fibrosi pulmonar idiopàtica (FPI), pneumonitis per hipersensibilitat fibrosant, fibrosi pulmonar associada a malalties sistèmiques, induïdes per inhalació mineral com asbestosi, fibrosi pulmonar per tabac, i fibrosi pulmonar d’origen genètic o familiar entre altres. El tractament inclou fàrmacs antifibròtics que inhibeixen la progressió d’aquesta alteració i altres opcions no farmacològiques. Actualment, el tractament que s’inicia depèn del diagnòstic. Tanmateix, els pacients que pateixen una d’aquestes malalties pulmonars intersticials fibrosants tenen un curs clínic i una resposta terapèutica molt variable. Tot i que s’han identificat factors pronòstics com l’edat, el gènere i la funció pulmonar, no existeixen models predictius evolutius al diagnòstic que permetin individualitzar les decisions terapèutiques de forma precisa. Es proposa desenvolupar un model predictiu al diagnòstic de pacients amb malalties pulmonars intersticials fibrosants.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              L'objectiu d'aquest desafiament és proporcionar una solució personalitzable i centrada en l'usuari que abordi l'espectre de problemes de salut sexual entre la població jove. Ja sigui a través d'una aplicació, un chatbot o un lloc web, la solució ha d'habilitar els usuaris per a navegar les complexitats de la sexualitat, fomentant la presa de decisions informades, el benestar emocional i dinàmiques de relacions positives. Mitjançant l'adopció de diverses opcions tecnològiques, els participants poden contribuir a superar barreres, fer que l'educació sexual sigui accessible, dinàmica i engrescadora, així com promoure un discurs més saludable i obert sobre la sexualitat.
+              A partir d’una cohort prospectiva de pacients amb malalties pulmonars intersticials fibrosants es poden identificar factors pronòstics de progressió de malaltia més enllà dels ja reconeguts (edat, gènere, funció pulmonar, patró radiològic) per poder desenvolupar un model predictiu intel·ligent que tingui capacitat d’incorporar noves variables que el puguin perfeccionar al llarg del temps. Actualment, només existeix el GAP score (Gender, Age, Pulmonary function), amb baix poder de predicció especialment en malalties diferents de la fibrosi pulmonar idiopàtica. Tanmateix, en els darrers anys s’han identificat factors pronòstics biològics com l’agregació familiar i l’escurçament telomèric, que podrien millorar el poder predictiu, i es preveu puguin incorporar-se biomarcadors sèrics en un futur pròxim. Disposar d’una calculadora o model predictiu pronòstic en la pràctica clínica a través d’una app o web en línia (FibroPred) ajudaria en la presa de decisions terapèutiques des del diagnòstic en aquests pacients sense haver d’esperar al seguiment per veure com evolucionen.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              La sexualitat entre joves abasta qüestions complexes que afecten significativament el seu benestar general. Una educació sexual inadequada sovint els deixa exposats a diversos reptes, com pot ser el risc de contraure malalties de transmissió sexual (ITS). A més, les discussions limitades sobre orientacions sexuals diverses i identitats de gènere perpetuen l'estigmatització i la discriminació, especialment contra les persones de la comunitat LGBTQ+. L'accés insuficient als serveis de salut reproductiva agreuja la situació, provocant embarassos no desitjats i limitant les opcions per aquells que busquen una atenció reproductiva essencial.
-              L'era digital introdueix reptes addicionals, com els riscos associats al comportament sexual en línia, la influència de la pornografia i la manca de cobertura en els programes d'educació sexual. La pornografia pot distorsionar les percepcions sobre les relacions sexuals i la intimitat, influint en les expectatives i les actituds dels joves. La pressió dels iguals i les expectatives socials intensifiquen encara més els reptes, pressionant els joves per conformar-se amb estàndards normatius i potencialment portant a comportaments arriscats, dificultats de comunicació i angoixa emocional. Les disparitats econòmiques també juguen un paper, afectant l'accés als serveis de salut sexual, agreujant les desigualtats i limitant el suport per als joves que enfronten crisis com embarassos no desitjats. Un enfocament integral de l'educació sexual és crucial, abastant no només els aspectes biològics sinó també les dimensions socials, emocionals i relacionals, per capacitar els joves a gestionar la seva salut sexual amb coneixement, confiança i respecte per les experiències i identitats diverses.
+              Les malalties pulmonars intersticials fibrosants associen una limitació en la qualitat de vida i condicionen el futur del pacient, però de forma molt variable. A més, el tractament antifibròtic provoca efectes adversos en un 40-60% dels casos i l’efecte d’aquests sobre la progressió de la malaltia no es pot preveure individualment. Millorar el coneixement sobre com evolucionarà la malaltia en pacients amb fibrosi pulmonar i facilitar el seu càlcul a través d’un sistema que es pugui consultar des de la visita inicial amb el pacient seria de gran ajuda en la presa conjunta de decisions terapèutiques i en els plans dels mateixos pacients.
             </p>
           </div>
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+            L'equip guanyador d'aquest repte obtindrà un premi de 100 euros (màxim 4 persones per equip). Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span>Hospital del Mar Research Institute</span>
+            <b>Proposa:</b> <span> IDIBELL</span>, <span>CIBERES</span> i <span>l'associació de pacients AIRE</span>
           </div>
         </div>
       </div>
       <div class="panel large">
-        <h1>La reproducció no és només cosa de dos: hackejant els secrets del microbioma seminal</h1>
+        <h1>QResp: codi QR per ajudar en la presa de decisions terapèutiques en cas d’agudització</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span>microbioma-seminal</span>
+          <span>q-resp</span>
         </div>
         <div>
           <p class="margin-bottom">
-            Benvinguts al meravellós món del microbioma seminal! Un ecosistema de microorganismes dinàmic i complex que no és simplement un espectador passiu, sinó que té un paper fonamental en la salut humana i també en la salut reproductiva. Localitzat al plasma seminal, aquesta comunitat complexa de microorganismes té el potencial d'influir en la fertilitat, els resultats reproductius i el benestar general.
-
-            Gràcies a investigacions recents, sabem que els diferents membres d’aquesta comunitat coexisteixen en un delicat equilibri, i que alteracions d’aquest equilibri podrien ser causes subjacents d’infertilitat masculina. No obstant, la investigació sobre el microbioma seminal és encara un camp en evolució, i les funcions específiques dels diferents microorganismes que el composen i les interaccions entre elles encara no estan completament dilucidades.
+            Les malalties pulmonars intersticials difuses (MPID) són un grup de més de 100 malalties minoritàries que afecten el parènquima pulmonar (teixit del pulmó). El diagnòstic i maneig terapèutic d’aquests pacients es decideix tenint en compte el tipus de malaltia i patró radiològic, la fase en la qual es troba i el tipus d’afectació funcional, així com altres característiques extrapulmonars individuals com l’existència d’altres malalties, limitació de mobilitat o problemes nutricionals, presa d’altres medicaments, estat general i voluntats del pacient. Per tant, requereixen un equip multidisciplinari terapèutic en centres específics on es compti, com a mínim, amb un equip de pneumologia expert que pot estar en contacte amb els equips assistencials més propers al domicili del pacient. Tanmateix, aquests pacients poden presentar infeccions respiratòries i altres problemes aguts que provoquin un empitjorament de l’ofec i la tos, per la qual cosa solen requerir una atenció immediata a serveis d’Urgències hospitalàries o ambulatòries on el personal assistencial està més format en altres tipus de malalties respiratòries més prevalents. Facilitar la informació sobre com abordar els problemes aguts d’aquests pacients pot ser útil no només pel personal assistencial no entrenat en aquestes malalties sinó també pel mateix pacient. Disposar d’un espai d’informació accedint a través d’un codi QR que porti el pacient, on es puguin incloure els símptomes aguts que es presenten i, de forma automàtica, suggereixi les mesures diagnòstic-terapèutiques a realitzar en el pacient i informi d’allò que s’ha d’evitar perquè pugui ser inclús perjudicial permetria millorar l’eficiència assistencial en l’abordatge agut d’aquests pacients.
           </p>
           <div>
             <h3 class="margin-bottom">Punt de vista tecnològic</h3>
             <p>
-              El repte que presentem té dues cares. La primera, a partir de dades clíniques i de microbiota seminal de pacients infèrtils i controls, esbrinar si existeixen perfils diferencials de microorganismes associats amb problemes reproductius.  L'objectiu és fer servir o desenvolupar eines bioinformàtiques basades tant en anàlisi estadística avançada com en algorismes d’aprenentatge automàtic que permetin identificar correlacions entre les abundàncies bacterianes seminals i la fertilitat masculina. La segona es dirigeix a la creació d’una eina de cerca bioinformàtica que aconsegueixi reunir en una única plataforma la informació biològica (metabolòmica, secretòmica, genòmica) coneguda dels microorganismes que composen el microbioma seminal, amb l’objectiu final d’explorar de manera interactiva les relacions que s’estableixen entre les molècules derivades del metabolisme d’aquests microorganismes. A partir de l’anàlisi d’aquestes relacions, podrem entendre millor l’acció del microbioma sobre la salut de l’espermatozoide.
+              Desenvolupar una plataforma a la qual s’accedeixi amb un codi QR i que permeti: 1. Incloure les dades bàsiques sobre la malaltia i condicions clíniques rellevants del pacient (per part del mateix pacient i del seu equip mèdic/infermeria), 2. Sistema d’Intel·ligència Artificial que permeti incorporar aquestes dades i actualització d’informació sobre com actuar (que puguin incorporar-se tan manualment com a través de la cerca d’internet en pàgines predefinides), 3. Desenvolupar algoritmes d’actuació que es puguin validar i perfeccionar pel seu ús a la pràctica clínica.
             </p>
           </div>
           <div class="margin-bottom">
             <h3 class="margin-bottom">Punt de vista de la salut</h3>
             <p>
-              L’anàlisi de les comunitats microbianes i la modulació dels seus ecosistemes com a conseqüència de les seves activitats ens ha de permetre perfilar conjunts de microbis que pertanyen al mateix grup taxonòmic o que comparteixen una mateixa “condició biològica” (metabolòmica, secretòmica...). La idea és que la plataforma pugui oferir de manera ràpida i visual la identificació de “connexions òptimes/calentes” entre organismes i/o condicions biològiques, i que ajudin a contextualitzar les accions de cada un dels microorganismes presents a la mostra. I a partir d’aquest coneixement, poder aportar solucions que ajudin a modular el microbioma en els pacients infèrtils que presentin una relació de microorganismes associada a infertilitat.
+              Els pacients amb malalties pulmonars intersticials difuses solen tenir problemes aguts com infeccions respiratòries, exacerbacions sobtades de la malaltia o embòlia pulmonar o pneumotòrax. Si aquests episodis aguts apareixen durant un viatge o lluny de l’hospital on tracten al pacient l’equip d’urgències que l’atengui pot tenir problemes per identificar l’actitud diagnòstic-terapèutica adequada o òptima. D’altra banda, el tractament ràpid i efectiu d’aquestes condicions pot reduir el risc de mort associat, així com l’ús inadequat de fàrmacs en casos no necessaris o inclús perillosos. Per tant, desenvolupar eines que puguin ajudar en la millora de l’abordatge urgent de complicacions agudes en pacients amb malalties pulmonars intersticials serà de gran valor pels serveis assistencials d’urgències i pels pacients.
             </p>
           </div>
           <br>
           <p>
             <strong>Premi: </strong>
-            El projecte guanyador rebrà un premi de 50 euros per a cada membre de l'equip! Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
+            L'equip guanyador d'aquest repte obtindrà un premi de 100 euros (màxim 4 persones per equip). Podeu trobar les bases de <i>Judging</i> a l'apartat de <i>Regles</i>.
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposen i col·laboren:</b> <span>Banc de sang i teixits</span> <span>Microomics</span> <span>Departament de Biologia Cel·lular, Fisiologia i Imnulogia, Facultat de Medicina, UAB</span>
+            <b>Proposa:</b> <span>IDIBELL</span>, <span>CIBERES</span> i <span>l'associació de pacients AIRE</span>
           </div>
         </div>
       </div>
