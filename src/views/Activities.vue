@@ -9,7 +9,7 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>A6002</span>
+            <span>A6001</span>
           </div>
           <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és la teva oportunitat! Vine a l'aula A6002, on trobarem un equip per tu o completarem el teu! </p>
         </div>
@@ -48,7 +48,7 @@
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
-            <span>A6002</span>
+            <span>A6001</span>
           </div>
           <p>
             Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes.
