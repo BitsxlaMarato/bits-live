@@ -35,22 +35,38 @@
 				},
 				{
 					"id": "3",
-					"title": "Team Building",
+					"title": "Xerrada repte La Lluita Continua",
 					"startHour": "19:00",
 					"endHour": "19:30",
 					"localization": "Aula A6002",
-					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva oportunitat! Troba gent amb la que poder crear un projecte"
+					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "4",
-					"title": "Xerrada Git",
-					"startHour": "19:30",
-					"endHour": "20:00",
+					"title": "Xerrada repte QResp",
+					"startHour": "19:00",
+					"endHour": "19:30",
 					"localization": "Aula A6001",
-					"description": "\uD83D\uDC08\u200D Tens dubtes amb Git i GitHub? Vols descobrir per què no saps de què parlem? Vine a la xerrada i resol tots els teus dubtes sobre com treballar en equip en un projecte de software!"
+					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
 					"id": "5",
+					"title": "Xerrada repte FibroPred",
+					"startHour": "19:30",
+					"endHour": "20:00",
+					"localization": "Aula A6001",
+					"description": "\uD83D\uDDE3️ Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+				},
+				{
+					"id": "6",
+					"title": "Xerrada repte Fem visible l'invisible",
+					"startHour": "19:30",
+					"endHour": "20:00",
+					"localization": "Aula A6001",
+					"description": "\uD83D\uDDE3️ Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+				},
+				{
+					"id": "7",
 					"title": "Sopar",
 					"startHour": "20:00",
 					"endHour": "21:00",
@@ -58,36 +74,20 @@
 					"description": "Hora de sopar! 🍽 Gaudeix dels entrepans del bar de la FIB!"
 				},
 				{
-					"id": "6",
-					"title": "Xerrada repte QResp",
-					"startHour": "21:00",
-					"endHour": "21:30",
-					"localization": "Aula A6001",
-					"description": "\uD83D\uDDE3️ Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
-				},
-				{
-					"id": "7",
-					"title": "Xerrada repte La Lluita Continua",
-					"startHour": "21:00",
-					"endHour": "21:30",
-					"localization": "Aula A6002",
-					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
-				},
-				{
 					"id": "8",
-					"title": "Xerrada repte FibroPred",
-					"startHour": "21:30",
-					"endHour": "22:00",
+					"title": "Team Building",
+					"startHour": "21:00",
+					"endHour": "21:30",
 					"localization": "Aula A6001",
-					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva oportunitat! Vine i troba gent amb la que poder crear un projecte"
 				},
 				{
 					"id": "9",
-					"title": "Xerrada repte Fem visible l'invisible",
+					"title": "Xerrada Git",
 					"startHour": "21:30",
 					"endHour": "22:00",
-					"localization": "Aula A6002",
-					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
+					"localization": "Aula A6001",
+					"description": "\uD83D\uDC08\u200D Tens dubtes amb Git i GitHub? Vols descobrir per què no saps de què parlem? Vine a la xerrada i resol tots els teus dubtes sobre com treballar en equip en un projecte de software!"
 				},
 				{
 					"id": "10",
@@ -120,8 +120,8 @@
 					"title": "Activitat: Posa els teus pulmons a prova",
 					"startHour": "10:00",
 					"endHour": "11:30",
-					"localization": "A6002",
-					"description": "Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes."
+					"localization": "A6001",
+					"description": "Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes"
 				},
 				{
 					"id": "14",
