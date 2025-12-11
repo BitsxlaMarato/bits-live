@@ -8,7 +8,7 @@
           <div>
             <div class="panel-info text-centered" style="font-size: 13px">
               <p class="label text-normal"><b>Xarxa:</b> <span> BITSxMARATO </span></p> <br>
-              <p class="label text-normal"><b>Contrasenya:</b> <span> BITSxM24* </span> </p>
+              <p class="label text-normal"><b>Contrasenya:</b> <span> BITSxM25* </span> </p>
             </div>
           </div>
         </div>
@@ -17,7 +17,7 @@
             <h3 class="text-centered margin-bottom" style="margin-top: 0">Links</h3>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://bitsxlamarato-2024.devpost.com" class="external-link">Devpost</a>
+            <a target="_blank" href="https://bitsxlamarato-2025.devpost.com" class="external-link">Devpost</a>
           </div>
           <p><b>Estudiants de la FIB!</b> Recordeu que per obtenir els dos crèdits és obligatori penjar el projecte a Devpost i presentar-lo al jurat!</p>
         </div>
@@ -26,7 +26,7 @@
         <h1>Contacte</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
-          <span><a href="https://bitsxlamarat2024.slack.com" target="_blank">Slack bitsxlaMarato 2024</a></span>
+          <span><a href="https://bitsxlamarat2025.slack.com" target="_blank">Slack bitsxlaMarato 2025</a></span>
         </div>
         <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
