@@ -44,18 +44,18 @@
         </div>
       </div>-->
       <div class="panel large">
-        <h1 style="text-transform: uppercase;">Posa els teus pulmons a prova</h1>
+        <h1 style="text-transform: uppercase;">Life game: guanya al Càncer!</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>A6001</span>
           </div>
           <p>
-            Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes.
+            Tot i que les causes del càncer són complexes i encara no del tot conegudes —ja que hi intervenen múltiples factors, incloses les diferències individuals—, adoptar hàbits de vida saludables pot contribuir significativament a reduir el risc de patir-lo.
           </p>
           <br>
           <p>
-            <strong>Activitat dirigida per: </strong>Maria Molina, de IDIBELL.
+            <strong>Activitat dirigida per: </strong>Neus Guerrero, de ICO.
           </p>
         </div>
       </div>
