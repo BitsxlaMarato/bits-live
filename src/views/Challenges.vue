@@ -19,7 +19,7 @@
         </div>
       </div>-->
       <div class="panel large">
-        <h1>Ataquem bé al tumor infantil medul.loblastoma!</h1>
+        <h1>Ataquem bé al tumor infantil medul·loblastoma!</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
           <span>ataquem-be</span>
