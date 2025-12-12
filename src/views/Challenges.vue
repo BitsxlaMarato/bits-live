@@ -135,7 +135,7 @@
           </p>
           <br>
           <div class="margin-bottom text-centered">
-            <b>Proposa:</b> <span>Banc de Sang i Teixits</span> i <span>ICO</span>
+            <b>Proposa:</b> <span>Banc de Sang i Teixits</span> amb la col·laboració de l’<span>ICO</span>, l’<span>Institut Josep Carreras</span> i l’<span>Hospital Clínic</span>
           </div>
         </div>
       </div>
