@@ -2,12 +2,12 @@
 	"version": 2,
 	"message": "",
 	"baseTimeOffset":"-60",
-	"countdownStart":"13/12/2024 19:00",
+	"countdownStart":"12/12/2025 19:00",
 	"days":
 	[
 		{
 			"name": "Divendres",
-			"date":"13/12/2024",
+			"date":"12/12/2025",
 			"events":
 			[
 				{
@@ -35,7 +35,7 @@
 				},
 				{
 					"id": "3",
-					"title": "Xerrada repte La Lluita Continua",
+					"title": "Xerrada: Hack the Uterus!",
 					"startHour": "19:00",
 					"endHour": "19:30",
 					"localization": "Aula A6002",
@@ -43,7 +43,7 @@
 				},
 				{
 					"id": "4",
-					"title": "Xerrada repte QResp",
+					"title": "Xerrada: Ataquem bé al tumor infantil medul·loblastoma!",
 					"startHour": "19:00",
 					"endHour": "19:30",
 					"localization": "Aula A6001",
@@ -51,7 +51,7 @@
 				},
 				{
 					"id": "5",
-					"title": "Xerrada repte FibroPred",
+					"title": "Xerrada: Monitoritzant els efectes cognitius i de funcionalitat del càncer",
 					"startHour": "19:30",
 					"endHour": "20:00",
 					"localization": "Aula A6001",
@@ -59,7 +59,7 @@
 				},
 				{
 					"id": "6",
-					"title": "Xerrada repte Fem visible l'invisible",
+					"title": "Xerrada: Predict to Protect",
 					"startHour": "19:30",
 					"endHour": "20:00",
 					"localization": "Aula A6002",
@@ -99,7 +99,7 @@
 		},
 		{
 			"name":"Dissabte",
-			"date":"14/12/2024",
+			"date":"13/12/2025",
 			"events":
 			[
 				{
@@ -117,7 +117,7 @@
 				},
 				{
 					"id": "13",
-					"title": "Activitat: Posa els teus pulmons a prova",
+					"title": "Activitat: Life game, guanya al Càncer!",
 					"startHour": "10:00",
 					"endHour": "11:30",
 					"localization": "A6001",
@@ -165,7 +165,7 @@
 		},
 		{
 			"name":"Diumenge",
-			"date":"15/12/2024",
+			"date":"14/12/2025",
 			"events":
 			[
 				{
