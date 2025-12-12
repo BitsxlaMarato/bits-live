@@ -38,7 +38,7 @@
 					"title": "Xerrada: Hack the Uterus!",
 					"startHour": "19:00",
 					"endHour": "19:30",
-					"localization": "Aula A6002",
+					"localization": "Aula A6001",
 					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
@@ -46,7 +46,7 @@
 					"title": "Xerrada: Ataquem bé al tumor infantil medul·loblastoma!",
 					"startHour": "19:00",
 					"endHour": "19:30",
-					"localization": "Aula A6001",
+					"localization": "Aula A6002",
 					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
@@ -117,11 +117,11 @@
 				},
 				{
 					"id": "13",
-					"title": "Activitat: Life game, guanya al Càncer!",
+					"title": "Activitat: Activitat: Life game! Desmuntant mites contra el càncer!",
 					"startHour": "10:00",
 					"endHour": "11:30",
-					"localization": "A6001",
-					"description": "Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes"
+					"localization": "A6101-A6102",
+					"description": "Tot i que les causes del càncer són complexes i encara no del tot conegudes —ja que hi intervenen múltiples factors, incloses les diferències individuals—, adoptar hàbits de vida saludables pot contribuir significativament a reduir el risc de patir-lo."
 				},
 				{
 					"id": "14",
@@ -129,7 +129,7 @@
 					"startHour": "13:00",
 					"endHour": "14:00",
 					"localization": "Exterior de l'edifici A6",
-					"description": "A dinar! 🍽 Gaudeix d'una boníssima fideuà!"
+					"description": "A dinar! 🍽 Gaudeix d'una boníssima paella!"
 				},
 				{
 					"id": "15",
