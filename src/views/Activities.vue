@@ -44,7 +44,7 @@
         </div>
       </div>-->
       <div class="panel large">
-        <h1 style="text-transform: uppercase;">Life game: guanya al Càncer!</h1>
+        <h1 style="text-transform: uppercase;">Life game! Desmuntant mites contra el càncer!</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
