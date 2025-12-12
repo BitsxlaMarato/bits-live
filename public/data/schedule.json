@@ -38,7 +38,7 @@
 					"title": "Xerrada: Hack the Uterus!",
 					"startHour": "19:00",
 					"endHour": "19:30",
-					"localization": "Aula A6002",
+					"localization": "Aula A6101-102",
 					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
@@ -46,7 +46,7 @@
 					"title": "Xerrada: Ataquem bé al tumor infantil medul·loblastoma!",
 					"startHour": "19:00",
 					"endHour": "19:30",
-					"localization": "Aula A6001",
+					"localization": "Aula A6101-102",
 					"description": "\uD83D\uDDE3️  Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
@@ -54,7 +54,7 @@
 					"title": "Xerrada: Monitoritzant els efectes cognitius i de funcionalitat del càncer",
 					"startHour": "19:30",
 					"endHour": "20:00",
-					"localization": "Aula A6001",
+					"localization": "Aula A6101-102",
 					"description": "\uD83D\uDDE3️ Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
@@ -62,7 +62,7 @@
 					"title": "Xerrada: Predict to Protect",
 					"startHour": "19:30",
 					"endHour": "20:00",
-					"localization": "Aula A6002",
+					"localization": "Aula A6101-102",
 					"description": "\uD83D\uDDE3️ Si estàs pensant en participar al repte, vine a conèixer més detalls que t'ajudaran a desenvolupar millor el teu projecte"
 				},
 				{
@@ -78,7 +78,7 @@
 					"title": "Team Building",
 					"startHour": "21:00",
 					"endHour": "21:30",
-					"localization": "Aula A6001",
+					"localization": "Aula A6101-102",
 					"description": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67 No tens equip? Aquesta és la teva oportunitat! Vine i troba gent amb la que poder crear un projecte"
 				},
 				{
@@ -86,7 +86,7 @@
 					"title": "Xerrada Git",
 					"startHour": "21:30",
 					"endHour": "22:00",
-					"localization": "Aula A6001",
+					"localization": "Aula A6101-102",
 					"description": "\uD83D\uDC08\u200D Tens dubtes amb Git i GitHub? Vols descobrir per què no saps de què parlem? Vine a la xerrada i resol tots els teus dubtes sobre com treballar en equip en un projecte de software!"
 				},
 				{
@@ -117,10 +117,10 @@
 				},
 				{
 					"id": "13",
-					"title": "Activitat: Life game, guanya al Càncer!",
+					"title": "Activitat:  Life game! Desmuntant mites contra el càncer!",
 					"startHour": "10:00",
 					"endHour": "11:30",
-					"localization": "A6001",
+					"localization": "A6101-102",
 					"description": "Posa a prova la teva capacitat pulmonar amb aquesta divertida i dinàmica activitat. Podràs aprendre a millorar amb l'ajuda de fisioterapeutes"
 				},
 				{
